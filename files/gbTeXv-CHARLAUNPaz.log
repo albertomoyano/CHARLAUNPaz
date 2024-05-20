@@ -58,20 +58,32 @@ pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.21 }
+      l.22 }
 pg 1: The keyval family of the key `pdfx' is `Hyp'.
 pg 1: The setting of the key is ignored because of the error.
 pg 1: Try typing  <return>  to proceed.
 pg 1: If that doesn't work, type  X <return>  to quit.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfformato'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.22 }
+pg 1: The keyval family of the key `pdfformato' is `Hyp'.
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
-      (hyperref)                setting the option has no effect on input line 21.
+      (hyperref)                setting the option has no effect on input line 22.
 ----------------
 From file DUMMY:
 pg 15: Capítulo 1.
 pg 17: Capítulo 2.
 pg 19: Capítulo 3.
 pg 21: Capítulo 4.
-pg 23: Using TeX to sort glossary entries---this may take a while
+pg 21: Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
+       (lipsum)                'spanish' will be used instead.
+       (lipsum)                
+       (lipsum)                With LuaTeX, lipsum requires babel to get proper
+       (lipsum)                hyphenation (you can use \usepackage[base]{babel}).
+pg 31: Using TeX to sort glossary entries---this may take a while
 
 After last page:
 
