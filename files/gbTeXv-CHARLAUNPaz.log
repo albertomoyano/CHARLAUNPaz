@@ -1,0 +1,132 @@
+----------------
+From file DUMMY:
+pg 1: (./pdf-CHARLAUNPaz.tex
+--------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-french/french.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'French' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 87.
+--------------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-portuges/portuguese.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'Portuguese' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 53.
+----------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'Italian' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 21.
+---------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'German (trad. orthography)' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 62.
+----------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'Spanish' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 51.
+------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty:
+pg 1: Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+pg 1: Already applied: [0000/00/00] Usage of raw or classic option list on input line
+pg 1: 368.
+----------------
+From file DUMMY:
+pg 1: ! Missing number, treated as zero.
+      <to be read again> 
+      \scan_stop: 
+      l.273 
+pg 1: A number should have been here; I inserted `0'.
+pg 1: (If you can't figure out why I needed to see a number,
+pg 1: look up `weird error' in the index to The TeXbook.)
+pg 1: {Índice de imágenes}, name=Imagen, placement=ht, ' on input line 283.
+--------------------------------------------
+From file ./files/gbTeXmeta-CHARLAUNPaz.tex:
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.18 }
+pg 1: The keyval family of the key `pdfx' is `Hyp'.
+pg 1: The setting of the key is ignored because of the error.
+pg 1: Try typing  <return>  to proceed.
+pg 1: If that doesn't work, type  X <return>  to quit.
+pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
+      (hyperref)                setting the option has no effect on input line 18.
+----------------
+From file DUMMY:
+pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
+      n defined.
+      See the glossaries package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.657 ...ción de \gls{@glo202-joseingenieros}\index
+pg 9: [onomastico]{Ingenieros, J...
+pg 9: You need to define a glossary entry before you can use it.
+pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
+      See the glossaries package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.657 ...ularidad caracterizó a \gls{@glo195-coas} 
+pg 9: y también a muchos de sus...
+pg 11: Capítulo 1.
+pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.665 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 11: desde su creación en 2019...
+pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.685 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 13: Capítulo 2.
+pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.691 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.727 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 743.
+pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 744.
+
+After last page:
+
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `texindy names.idx'.
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `texindy concepto.idx'.
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `texindy onomastico.idx'.
+***********
+)
+
+====  Summary:  ====
+
