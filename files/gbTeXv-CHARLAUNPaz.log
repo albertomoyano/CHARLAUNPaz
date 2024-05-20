@@ -51,16 +51,6 @@ pg 1: A number should have been here; I inserted `0'.
 pg 1: (If you can't figure out why I needed to see a number,
 pg 1: look up `weird error' in the index to The TeXbook.)
 pg 1: {Índice de imágenes}, name=Imagen, placement=ht, ' on input line 283.
--------------------------------------------
-From file ./files/gbTeXglo-CHARLAUNPaz.tex:
-pg 1: ! Package glossaries Error: description key required in \newglossaryentry for e
-      ntry `@glo203-unpaz'.
-      See the glossaries package documentation for explanation.
-      Type  H <return>  for immediate help.
-       ...                                              
-                                                        
-      l.7 }
-pg 1: You haven't specified the entry description
 --------------------------------------------
 From file ./files/gbTeXmeta-CHARLAUNPaz.tex:
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
@@ -82,13 +72,6 @@ pg 17: Capítulo 2.
 pg 19: Capítulo 3.
 pg 21: Capítulo 4.
 pg 23: Using TeX to sort glossary entries---this may take a while
-pg 23: ! Package glossaries Error: description key required in \newglossaryentry for e
-       ntry `@glo204-libro'.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.761 ...ype=\acronymtype,title={Índice de siglas}]
 
 After last page:
 
