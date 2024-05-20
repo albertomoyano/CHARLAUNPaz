@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  16 MAY 2024 06:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  17 MAY 2024 00:33
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -975,14 +975,14 @@ Package pdftex.def Info: completo.pdf  used on input line 88.
 [8
 
  <./completo.pdf>]
-<arbol3.pdf, id=230, 554.82875pt x 270.3012pt>
-File: arbol3.pdf Graphic file (type pdf)
-<use arbol3.pdf>
-Package pdftex.def Info: arbol3.pdf  used on input line 102.
-(pdftex.def)             Requested size: 358.50229pt x 174.65845pt.
+<arbol4.pdf, id=230, 554.82875pt x 270.3012pt>
+File: arbol4.pdf Graphic file (type pdf)
+<use arbol4.pdf>
+Package pdftex.def Info: arbol4.pdf  used on input line 109.
+(pdftex.def)             Requested size: 318.67209pt x 155.25287pt.
  [9
 
- <./arbol3.pdf>]
+ <./arbol4.pdf>]
 \tf@nav=\write6
 \openout6 = `presentacion.nav'.
 
@@ -1015,10 +1015,10 @@ Here is how much of TeX's memory you used:
 texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf-dist/font
 s/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic
 /uhvro8a.pfb>
-Output written on presentacion.pdf (9 pages, 12718965 bytes).
+Output written on presentacion.pdf (9 pages, 12529646 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
+ 344 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
  19 named destinations out of 1000 (max. 500000)
  74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

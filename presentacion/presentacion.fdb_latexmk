@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715853265.8448 "presentacion.tex" "presentacion.pdf" "presentacion" 1715853266.88715 0
+["pdflatex"] 1715916795.53021 "presentacion.tex" "presentacion.pdf" "presentacion" 1715916796.59421 0
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1713199481 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1713199481 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm" 1713199481 2520 53e01eef820ca829e42c1333c3fd02b9 ""
@@ -209,15 +209,15 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1713199481 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1715764738.60729 5467607 1f3b9843102088c2a7136e28f005c5e4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1715764677 7112994 8d41b0773bb654963d5eac23032d90d2 ""
-  "arbol3.pdf" 1715853235.74287 1682366 f5024b735043924a0dacd027a62541ad ""
+  "arbol4.pdf" 1715916775.44541 1492845 fb62565716130e0ae8f1635d4fde33f8 ""
   "ciclos.pdf" 1715046830.22538 1516405 d3d95eae6518a4569c0e8b619928ec2c ""
   "completo.pdf" 1715133393.86649 2148484 7d59b1df57125438d83719e40f4e3b28 ""
   "estrella.pdf" 1713630314.89152 2014951 5c220cee99d01faf200e4ab1b970dc5f ""
   "gutenberg.pdf" 1715047013.91586 5325439 130281d7386db17e9a2846f48503009c ""
-  "presentacion.aux" 1715853266.79604 1749 b186b58ea917e95043f9f5451e0e2b42 "pdflatex"
-  "presentacion.nav" 1715853266.79938 1011 83c4ff004b77303d878240d0bcc95e05 "pdflatex"
-  "presentacion.out" 1715853266.46605 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "presentacion.tex" 1715852547.41016 4842 03f2ece0022a1d9812c33aae2e313869 ""
+  "presentacion.aux" 1715916796.49871 1749 b186b58ea917e95043f9f5451e0e2b42 "pdflatex"
+  "presentacion.nav" 1715916796.50204 1011 83c4ff004b77303d878240d0bcc95e05 "pdflatex"
+  "presentacion.out" 1715916796.16538 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "presentacion.tex" 1715916587.67565 4992 1207a0d54414c2e91cb50a49e5a5af91 ""
   (generated)
   "presentacion.aux"
   "presentacion.log"

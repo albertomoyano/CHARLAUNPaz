@@ -436,11 +436,11 @@ INPUT ./completo.pdf
 INPUT ./completo.pdf
 INPUT ./completo.pdf
 INPUT ./completo.pdf
-INPUT ./arbol3.pdf
-INPUT ./arbol3.pdf
-INPUT ./arbol3.pdf
-INPUT ./arbol3.pdf
-INPUT ./arbol3.pdf
+INPUT ./arbol4.pdf
+INPUT ./arbol4.pdf
+INPUT ./arbol4.pdf
+INPUT ./arbol4.pdf
+INPUT ./arbol4.pdf
 OUTPUT presentacion.nav
 OUTPUT presentacion.toc
 OUTPUT presentacion.snm
