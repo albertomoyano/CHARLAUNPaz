@@ -58,64 +58,64 @@ pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.18 }
+      l.21 }
 pg 1: The keyval family of the key `pdfx' is `Hyp'.
 pg 1: The setting of the key is ignored because of the error.
 pg 1: Try typing  <return>  to proceed.
 pg 1: If that doesn't work, type  X <return>  to quit.
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
-      (hyperref)                setting the option has no effect on input line 18.
+      (hyperref)                setting the option has no effect on input line 21.
 ----------------
 From file DUMMY:
-pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
-      n defined.
-      See the glossaries package documentation for explanation.
-      Type  H <return>  for immediate help.
-       ...                                              
-                                                        
-      l.657 ...ción de \gls{@glo202-joseingenieros}\index
-pg 9: [onomastico]{Ingenieros, J...
-pg 9: You need to define a glossary entry before you can use it.
-pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
-      See the glossaries package documentation for explanation.
-      Type  H <return>  for immediate help.
-       ...                                              
-                                                        
-      l.657 ...ularidad caracterizó a \gls{@glo195-coas} 
-pg 9: y también a muchos de sus...
-pg 11: Capítulo 1.
-pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+pg 11: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
+       n defined.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.663 ...ción de \gls{@glo202-joseingenieros}\index
+pg 11: [onomastico]{Ingenieros, J...
+pg 11: You need to define a glossary entry before you can use it.
+pg 11: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.663 ...ularidad caracterizó a \gls{@glo195-coas} 
+pg 11: y también a muchos de sus...
+pg 15: Capítulo 1.
+pg 15: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
        d.
        See the glossaries package documentation for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.665 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 11: desde su creación en 2019...
-pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       l.673 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 15: desde su creación en 2019...
+pg 15: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
        d.
        See the glossaries package documentation for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.685 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 13: Capítulo 2.
-pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       l.693 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 17: Capítulo 2.
+pg 17: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
        d.
        See the glossaries package documentation for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.691 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       l.699 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 17: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
        d.
        See the glossaries package documentation for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.727 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 743.
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 744.
+       l.735 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 19: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 751.
+pg 19: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 752.
 
 After last page:
 

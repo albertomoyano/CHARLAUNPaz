@@ -1,0 +1,73 @@
+\documentclass{article}
+\usepackage[paperwidth=210mm,paperheight=297mm,top=20mm,bottom=20mm,left=20mm,right=20mm,headsep=0pt,headheight=0pt,footskip=0pt,marginparsep=0pt,marginparwidth=0pt,footnotesep=13.5pt plus 0.1pt minus 0.1pt]{geometry}
+\usepackage[spanish,es-ucroman,es-noshorthands]{babel}
+\usepackage[autostyle=true]{csquotes}
+\tracinglostchars=2
+\usepackage{fontspec}
+\usepackage{microtype}
+\newfontfeature{Microtypography}{protrusion=default;expansion=default}
+\directlua{fonts.protrusions.setups.default.factor=.5}
+\renewcommand{\normalsize}{\fontsize{10pt}{13.5pt}\selectfont}
+\topskip=13.5pt
+\setmainfont{Libertinus Serif}[Numbers={OldStyle,Proportional},Ligatures=TeX,Scale=1.2]
+\setsansfont{IBMPlexSansCondensed}[Scale=MatchLowercase,Ligatures=TeX,Extension=.otf,UprightFont=*-Regular,ItalicFont=*-Italic,BoldFont=*-SemiBold,BoldItalicFont=*-SemiBoldItalic]
+\setmonofont{IBMPlexMono.otf}[Scale=0.91,Extension=.otf,UprightFont=*-Regular,ItalicFont = IBMPlexMono-Italic.otf,BoldFont = IBMPlexMono-Bold.otf,BoldItalicFont = IBMPlexMono-BoldItalic.otf]
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{xcolor}
+\definecolor{color2}{RGB}{144,12,63}
+\pagecolor{color2!1}
+\usepackage[absolute]{textpos}
+\newcommand\cabecera[1]{\sf\normalsize{#1}}
+\newcommand\titulo[1]{\sf\LARGE{\textbf{#1}}}
+\newcommand\subtitulo[1]{\sf\Large{#1}}
+\newcommand\autoria[1]{\color{color2}\sf\Large{#1}}
+\newcommand\legales[1]{\sf\normalsize{#1}}
+\newcommand\texto[1]{\normalsize{#1}}
+\newcommand\biografia[1]{\sf\small{#1}}
+\usepackage{url}
+\def\UrlFont{\tt\footnotesize}
+\begin{document}
+\thispagestyle{empty}
+\begin{textblock*}{45mm}(15mm,20mm)
+\includegraphics[width=45mm]{/home/alberto/Bodega/00_Produccion/CHARLAUNPaz/media/cover.png}
+\end{textblock*}
+\begin{textblock*}{45mm}(15mm,100mm)
+\begin{minipage}{45mm}
+\noindent\legales{ISBN: \textbf{978-987-8262-33-8}}\\
+\noindent\legales{Formato: \textbf{}}\\
+\noindent\legales{Páginas: \textbf{}}\\
+\noindent\legales{Idioma: \textbf{es-ES}}\\
+\noindent\legales{Fecha: \textbf{2023-12}}\\
+\end{minipage}
+\end{textblock*}
+\begin{textblock*}{11cm}(75mm,20mm)
+\begin{minipage}{11cm}
+\noindent \cabecera{Colección {\color{color2}\textbf{}}}\\
+\noindent \cabecera{Dirigida por \textbf{}}\\
+\end{minipage}
+\end{textblock*}
+\begin{textblock*}{11cm}(75mm,45mm)
+\begin{minipage}{11cm}
+\raggedright \titulo{Literatura y Pensamiento}\\
+\raggedright \subtitulo{Caja de herramientas para el análisis literario}
+\end{minipage}
+\end{textblock*}
+\begin{textblock*}{11cm}(75mm,100mm)
+\begin{minipage}{11cm}
+\noindent \texto{}
+\end{minipage}
+\end{textblock*}
+\begin{textblock*}{11cm}(75mm,77mm)
+\begin{minipage}{11cm}
+\noindent \autoria{Andrés Racket}
+\end{minipage}
+\end{textblock*}
+\begin{textblock*}{18cm}(15mm,277mm)
+\begin{minipage}{18cm}
+\centering
+\url{}
+\end{minipage}
+\end{textblock*}
+\end{document}
+

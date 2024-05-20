@@ -1,18 +1,20 @@
 File: pdf-CHARLAUNPaz.tex
 Encoding: utf8
-Sum count: 439
-Words in text: 374
-Words in headers: 9
+Sum count: 747
+Words in text: 677
+Words in headers: 14
 Words outside text (captions, etc.): 55
-Number of headers: 9
+Number of headers: 11
 Number of floats/tables/figures: 4
 Number of math inlines: 0
 Number of math displayed: 1
 Subcounts:
   text+headers+captions (#headers/#floats/#inlines/#displayed)
   2+0+0 (0/0/0/0) Chapter: \glsresetall
-  103+1+0 (1/0/0/0) Chapter: Frontmatter
-  0+1+0 (1/0/0/0) Chapter: MainmatterA
+  169+1+0 (1/0/0/0) Chapter: Agradecimientos
+  237+1+0 (1/0/0/0) Chapter: Presentación
+  0+1+0 (1/0/0/0) Chapter: Introducción
+  0+4+0 (1/0/0/0) Chapter: Título del primer capítulo
   80+1+6 (1/0/0/1) Section: SecciónA
   44+1+0 (1/0/0/0) Section: SecciónAA
   0+1+0 (1/0/0/0) Chapter: MainmatterB

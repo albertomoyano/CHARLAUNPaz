@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  19 MAY 2024 23:34
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  19 MAY 2024 23:48
  restricted system commands enabled.
 **pdf-CHARLAUNPaz.tex
 (./pdf-CHARLAUNPaz.tex
@@ -1979,7 +1979,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 }
+l.21 }
     
 The keyval family of the key `pdfx' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -1987,14 +1987,14 @@ The setting of the key is ignored because of the error.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Package hyperref Info: Option `unicode' set `true' on input line 18.
+Package hyperref Info: Option `unicode' set `true' on input line 21.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 18.
+(hyperref)                setting the option has no effect on input line 21.
 
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 18.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 21.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 21.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -2353,13 +2353,13 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 14.15991pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 39.
-<./media/unpaz_logo.png, id=73, 96.36pt x 33.4851pt>
+<./media/unpaz_logo.png, id=81, 96.36pt x 33.4851pt>
 File: ./media/unpaz_logo.png Graphic file (type png)
 <use ./media/unpaz_logo.png>
 Package luatex.def Info: ./media/unpaz_logo.png  used on input line 46.
 (luatex.def)             Requested size: 85.35826pt x 29.66164pt.
  [5<./media/unpaz_logo.png>]
-<./media/logo-GNU.png, id=80, 1027.84pt x 1004.75375pt>
+<./media/logo-GNU.png, id=88, 1027.84pt x 1004.75375pt>
 File: ./media/logo-GNU.png Graphic file (type png)
 <use ./media/logo-GNU.png>
 Package luatex.def Info: ./media/logo-GNU.png  used on input line 55.
@@ -2397,6 +2397,14 @@ LaTeX Info: Redefining \% on input line 654.
 
 ]
 Package biblatex Info: Resetting trackers on input line 654.
+LaTeX Info: Redefining \. on input line 659.
+LaTeX Info: Redefining \% on input line 659.
+LaTeX Info: Redefining \. on input line 659.
+LaTeX Info: Redefining \% on input line 659.
+ [9] [10
+
+]
+Package biblatex Info: Resetting trackers on input line 659.
 
 
 ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
@@ -2406,7 +2414,7 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.657 ...ción de \gls{@glo202-joseingenieros}\index
+l.663 ...ción de \gls{@glo202-joseingenieros}\index
                                                   [onomastico]{Ingenieros, J...
 You need to define a glossary entry before you can use it.
 
@@ -2418,25 +2426,33 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.657 ...ularidad caracterizó a \gls{@glo195-coas} 
+l.663 ...ularidad caracterizó a \gls{@glo195-coas} 
                                                   y también a muchos de sus...
 You need to define a glossary entry before you can use it.
 
-LaTeX Info: Redefining \. on input line 659.
-LaTeX Info: Redefining \% on input line 659.
-LaTeX Info: Redefining \. on input line 659.
-LaTeX Info: Redefining \% on input line 659.
-[9] [10
+LaTeX Info: Redefining \. on input line 665.
+LaTeX Info: Redefining \% on input line 665.
+LaTeX Info: Redefining \. on input line 665.
+LaTeX Info: Redefining \% on input line 665.
+[11] [12
+
+]
+Package biblatex Info: Resetting trackers on input line 665.
+LaTeX Info: Redefining \. on input line 667.
+LaTeX Info: Redefining \% on input line 667.
+LaTeX Info: Redefining \. on input line 667.
+LaTeX Info: Redefining \% on input line 667.
+ [13] [14
 
 ]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 661.
+Package biblatex Info: Resetting trackers on input line 669.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 661.
+(Font)              scaled to size 16.99188pt on input line 669.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 663.
+(Font)              scaled to size 9.69757pt on input line 671.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 663.
+(Font)              scaled to size 11.63708pt on input line 671.
 
 ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
 d.
@@ -2445,22 +2461,22 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.665 ...les impulsados por el \gls{@glo201-ceheal} 
+l.673 ...les impulsados por el \gls{@glo201-ceheal} 
                                                   desde su creación en 2019...
 You need to define a glossary entry before you can use it.
 
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.25995pt on input line 665.
+(Font)              scaled to size 8.25995pt on input line 673.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 665.
+(Font)              scaled to size 5.89996pt on input line 673.
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 665.
+(Font)              scaled to size 6.86723pt on input line 673.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.43994pt on input line 673.
+(Font)              scaled to size 9.43994pt on input line 681.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FourierOrns-Regular.otf' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2600,21 +2616,21 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.685 ...les impulsados por el \gls{@glo201-ceheal} 
+l.693 ...les impulsados por el \gls{@glo201-ceheal} 
                                                   desde su creación en 2019...
 You need to define a glossary entry before you can use it.
 
-LaTeX Info: Redefining \. on input line 687.
-LaTeX Info: Redefining \% on input line 687.
-LaTeX Info: Redefining \. on input line 687.
-LaTeX Info: Redefining \% on input line 687.
+LaTeX Info: Redefining \. on input line 695.
+LaTeX Info: Redefining \% on input line 695.
+LaTeX Info: Redefining \. on input line 695.
+LaTeX Info: Redefining \% on input line 695.
 [1
 
 ] [2
 
 ]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 687.
+Package biblatex Info: Resetting trackers on input line 695.
 
 ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
 d.
@@ -2623,17 +2639,17 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.691 ...les impulsados por el \gls{@glo201-ceheal} 
+l.699 ...les impulsados por el \gls{@glo201-ceheal} 
                                                   desde su creación en 2019...
 You need to define a glossary entry before you can use it.
 
-<./media/imagen1.jpg, id=154, 246.6816pt x 164.2938pt>
+<./media/imagen1.jpg, id=183, 246.6816pt x 164.2938pt>
 File: ./media/imagen1.jpg Graphic file (type jpg)
 <use ./media/imagen1.jpg>
-Package luatex.def Info: ./media/imagen1.jpg  used on input line 696.
+Package luatex.def Info: ./media/imagen1.jpg  used on input line 704.
 (luatex.def)             Requested size: 312.9803pt x 208.47028pt.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 697.
+(Font)              scaled to size 10.61993pt on input line 705.
 
 ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
 d.
@@ -2642,39 +2658,39 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.727 ...les impulsados por el \gls{@glo201-ceheal} 
+l.735 ...les impulsados por el \gls{@glo201-ceheal} 
                                                   desde su creación en 2019...
 You need to define a glossary entry before you can use it.
 
-LaTeX Info: Redefining \. on input line 729.
-LaTeX Info: Redefining \% on input line 729.
-LaTeX Info: Redefining \. on input line 729.
-LaTeX Info: Redefining \% on input line 729.
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
 [3<./media/imagen1.jpg>]
-LaTeX Info: Redefining \. on input line 729.
-LaTeX Info: Redefining \% on input line 729.
-LaTeX Info: Redefining \. on input line 729.
-LaTeX Info: Redefining \% on input line 729.
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
  [4]
 
 Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acrony
 m}]. Rerun may be required (or you may have forgotten to use commands like \gls
-) on input line 743.
+) on input line 751.
 
 
 Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]
 . Rerun may be required (or you may have forgotten to use commands like \gls) o
-n input line 744.
+n input line 752.
 
-Package biblatex Info: Resetting trackers on input line 745.
+Package biblatex Info: Resetting trackers on input line 753.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 745.
+(Font)              scaled to size 10.61993pt on input line 753.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.61993pt on input line 745.
-LaTeX Info: Redefining \. on input line 772.
-LaTeX Info: Redefining \% on input line 772.
-LaTeX Info: Redefining \. on input line 772.
-LaTeX Info: Redefining \% on input line 772.
+(Font)              scaled to size 10.61993pt on input line 753.
+LaTeX Info: Redefining \. on input line 780.
+LaTeX Info: Redefining \% on input line 780.
+LaTeX Info: Redefining \. on input line 780.
+LaTeX Info: Redefining \% on input line 780.
 [5
 
 
@@ -2683,10 +2699,10 @@ LaTeX Info: Redefining \% on input line 772.
 ] (./names.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 773.
-LaTeX Info: Redefining \% on input line 773.
-LaTeX Info: Redefining \. on input line 773.
-LaTeX Info: Redefining \% on input line 773.
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
  [7
 
 ] [8
@@ -2694,10 +2710,10 @@ LaTeX Info: Redefining \% on input line 773.
 ] (./concepto.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 774.
-LaTeX Info: Redefining \% on input line 774.
-LaTeX Info: Redefining \. on input line 774.
-LaTeX Info: Redefining \% on input line 774.
+LaTeX Info: Redefining \. on input line 782.
+LaTeX Info: Redefining \% on input line 782.
+LaTeX Info: Redefining \. on input line 782.
+LaTeX Info: Redefining \% on input line 782.
  [9
 
 ] [10
@@ -2705,21 +2721,21 @@ LaTeX Info: Redefining \% on input line 774.
 ] (./onomastico.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 791.
-LaTeX Info: Redefining \% on input line 791.
-LaTeX Info: Redefining \. on input line 791.
-LaTeX Info: Redefining \% on input line 791.
+LaTeX Info: Redefining \. on input line 799.
+LaTeX Info: Redefining \% on input line 799.
+LaTeX Info: Redefining \. on input line 799.
+LaTeX Info: Redefining \% on input line 799.
 
 [11
 
 ] [12
 
 ]
-Package biblatex Info: Resetting trackers on input line 791.
-LaTeX Info: Redefining \. on input line 798.
-LaTeX Info: Redefining \% on input line 798.
-LaTeX Info: Redefining \. on input line 798.
-LaTeX Info: Redefining \% on input line 798.
+Package biblatex Info: Resetting trackers on input line 799.
+LaTeX Info: Redefining \. on input line 806.
+LaTeX Info: Redefining \% on input line 806.
+LaTeX Info: Redefining \. on input line 806.
+LaTeX Info: Redefining \% on input line 806.
  [13] (/usr/share/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
@@ -2748,23 +2764,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `pdf-CHARLAUNPaz.out' has not changed.
-(rerunfilecheck)             Checksum: 2501FDDCB8909C4DB5CA64AD92D0E848;1366.
+(rerunfilecheck)             Checksum: 8477B61A97FFCBAFDE0B0A0832D6DCAE;1694.
 Package logreq Info: Writing requests to 'pdf-CHARLAUNPaz.run.xml'.
 
 \openout1 = pdf-CHARLAUNPaz.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 53287 strings out of 476447
- 125086,2373549 words of node,token memory allocated
- 101718 words of node memory still in use:
-   552 hlist, 4 vlist, 284 rule, 4 ins, 741 disc, 226 local_par, 4 math, 1846 gl
-ue, 685 kern, 490 penalty, 58 margin_kern, 7015 glyph, 5415 attribute, 501 glue_
-spec, 775 attribute_list, 40 write, 2 pdf_literal, 64 pdf_start_link, 64 pdf_end
-_link, 8 pdf_dest, 31 pdf_action, 322 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_sav
-e, 6 pdf_restore nodes
-   avail lists: 1:5,2:309,3:50,4:18,5:92,6:2,7:998,8:18,9:56,10:12,11:118
- 73936 multiletter control sequences out of 65536+600000
+ 53295 strings out of 476447
+ 156362,2373549 words of node,token memory allocated
+ 126121 words of node memory still in use:
+   578 hlist, 4 vlist, 320 rule, 4 ins, 1044 disc, 240 local_par, 4 math, 2248 g
+lue, 794 kern, 520 penalty, 55 margin_kern, 9260 glyph, 5849 attribute, 533 glue
+_spec, 837 attribute_list, 40 write, 2 pdf_literal, 68 pdf_start_link, 68 pdf_en
+d_link, 8 pdf_dest, 33 pdf_action, 338 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_sa
+ve, 6 pdf_restore nodes
+   avail lists: 1:13,2:309,3:53,4:14,5:92,6:2,7:998,8:18,9:56,10:12,11:118
+ 73938 multiletter control sequences out of 65536+600000
  73 fonts using 13304711 bytes
  132i,7n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-It
@@ -2776,10 +2792,10 @@ d-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libe
 rtinusSerif-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 mi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on pdf-CHARLAUNPaz.pdf (24 pages, 305456 bytes).
+Output written on pdf-CHARLAUNPaz.pdf (28 pages, 311499 bytes).
 
-PDF statistics: 286 PDF objects out of 1000 (max. 8388607)
- 156 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 131072)
- 117 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 314 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 52 named destinations out of 1000 (max. 131072)
+ 133 words of extra memory for PDF output out of 10000 (max. 100000000)
 
