@@ -51,6 +51,16 @@ pg 1: A number should have been here; I inserted `0'.
 pg 1: (If you can't figure out why I needed to see a number,
 pg 1: look up `weird error' in the index to The TeXbook.)
 pg 1: {Índice de imágenes}, name=Imagen, placement=ht, ' on input line 283.
+-------------------------------------------
+From file ./files/gbTeXglo-CHARLAUNPaz.tex:
+pg 1: ! Package glossaries Error: description key required in \newglossaryentry for e
+      ntry `@glo203-unpaz'.
+      See the glossaries package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.7 }
+pg 1: You haven't specified the entry description
 --------------------------------------------
 From file ./files/gbTeXmeta-CHARLAUNPaz.tex:
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
@@ -67,55 +77,18 @@ pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
       (hyperref)                setting the option has no effect on input line 21.
 ----------------
 From file DUMMY:
-pg 11: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
-       n defined.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.663 ...ción de \gls{@glo202-joseingenieros}\index
-pg 11: [onomastico]{Ingenieros, J...
-pg 11: You need to define a glossary entry before you can use it.
-pg 11: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.663 ...ularidad caracterizó a \gls{@glo195-coas} 
-pg 11: y también a muchos de sus...
 pg 15: Capítulo 1.
-pg 15: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.673 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 15: desde su creación en 2019...
-pg 15: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.693 ...les impulsados por el \gls{@glo201-ceheal} 
 pg 17: Capítulo 2.
-pg 17: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
+pg 19: Capítulo 3.
+pg 21: Capítulo 4.
+pg 23: Using TeX to sort glossary entries---this may take a while
+pg 23: ! Package glossaries Error: description key required in \newglossaryentry for e
+       ntry `@glo204-libro'.
        See the glossaries package documentation for explanation.
        Type  H <return>  for immediate help.
         ...                                              
                                                          
-       l.699 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 17: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.735 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 19: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 751.
-pg 19: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 752.
+       l.761 ...ype=\acronymtype,title={Índice de siglas}]
 
 After last page:
 

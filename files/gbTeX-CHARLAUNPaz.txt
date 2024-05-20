@@ -1,25 +1,23 @@
 File: pdf-CHARLAUNPaz.tex
 Encoding: utf8
-Sum count: 747
-Words in text: 677
-Words in headers: 14
-Words outside text (captions, etc.): 55
-Number of headers: 11
-Number of floats/tables/figures: 4
+Sum count: 381
+Words in text: 362
+Words in headers: 19
+Words outside text (captions, etc.): 0
+Number of headers: 9
+Number of floats/tables/figures: 0
 Number of math inlines: 0
-Number of math displayed: 1
+Number of math displayed: 0
 Subcounts:
   text+headers+captions (#headers/#floats/#inlines/#displayed)
   2+0+0 (0/0/0/0) Chapter: \glsresetall
-  169+1+0 (1/0/0/0) Chapter: Agradecimientos
-  237+1+0 (1/0/0/0) Chapter: Presentación
+  159+1+0 (1/0/0/0) Chapter: Agradecimientos
+  128+1+0 (1/0/0/0) Chapter: Presentación
   0+1+0 (1/0/0/0) Chapter: Introducción
-  0+4+0 (1/0/0/0) Chapter: Título del primer capítulo
-  80+1+6 (1/0/0/1) Section: SecciónA
-  44+1+0 (1/0/0/0) Section: SecciónAA
-  0+1+0 (1/0/0/0) Chapter: MainmatterB
-  38+1+40 (1/4/0/0) Section: SecciónB
-  40+1+9 (1/0/0/0) Section: SecciónBB
-  10+1+0 (1/0/0/0) Chapter: Bibliografía
+  4+1+0 (1/0/0/0) Chapter: Fundaciones
+  0+1+0 (1/0/0/0) Chapter: Metamorfosis
+  0+7+0 (1/0/0/0) Chapter: La victoria, la muerte y la representación
+  2+4+0 (1/0/0/0) Chapter: Viajes en el tiempo
+  10+2+0 (1/0/0/0) Chapter: Referencias bibliográficas
   57+1+0 (1/0/0/0) Chapter: Colofón
 

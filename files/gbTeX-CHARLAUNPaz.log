@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  19 MAY 2024 23:48
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  20 MAY 2024 00:35
  restricted system commands enabled.
 **pdf-CHARLAUNPaz.tex
 (./pdf-CHARLAUNPaz.tex
@@ -1840,8 +1840,20 @@ Package: supertabular 2020/02/02 v4.1g the supertabular environment
 Package: glossary-tree 2023/09/29 v4.53 (NLCT)
 \glstreeindent=\skip121
 ))
-(./files/gbTeXglo-CHARLAUNPaz.tex)
-(/usr/share/texmf-dist/tex/latex/impnattypo/impnattypo.sty
+(./files/gbTeXglo-CHARLAUNPaz.tex
+
+! Package glossaries Error: description key required in \newglossaryentry for e
+ntry `@glo203-unpaz'.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 }
+   
+You haven't specified the entry description
+
+) (/usr/share/texmf-dist/tex/latex/impnattypo/impnattypo.sty
 Package: impnattypo 2019/03/04 1.5 Typographic utilities inspired by the French
  Imprimerie Nationale
 Package: impnattypo 
@@ -2353,13 +2365,13 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 14.15991pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 39.
-<./media/unpaz_logo.png, id=81, 96.36pt x 33.4851pt>
+<./media/unpaz_logo.png, id=73, 96.36pt x 33.4851pt>
 File: ./media/unpaz_logo.png Graphic file (type png)
 <use ./media/unpaz_logo.png>
 Package luatex.def Info: ./media/unpaz_logo.png  used on input line 46.
 (luatex.def)             Requested size: 85.35826pt x 29.66164pt.
  [5<./media/unpaz_logo.png>]
-<./media/logo-GNU.png, id=88, 1027.84pt x 1004.75375pt>
+<./media/logo-GNU.png, id=80, 1027.84pt x 1004.75375pt>
 File: ./media/logo-GNU.png Graphic file (type png)
 <use ./media/logo-GNU.png>
 Package luatex.def Info: ./media/logo-GNU.png  used on input line 55.
@@ -2405,36 +2417,11 @@ LaTeX Info: Redefining \% on input line 659.
 
 ]
 Package biblatex Info: Resetting trackers on input line 659.
-
-
-! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
-n defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.663 ...ción de \gls{@glo202-joseingenieros}\index
-                                                  [onomastico]{Ingenieros, J...
-You need to define a glossary entry before you can use it.
-
-
-! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
-
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.663 ...ularidad caracterizó a \gls{@glo195-coas} 
-                                                  y también a muchos de sus...
-You need to define a glossary entry before you can use it.
-
 LaTeX Info: Redefining \. on input line 665.
 LaTeX Info: Redefining \% on input line 665.
 LaTeX Info: Redefining \. on input line 665.
 LaTeX Info: Redefining \% on input line 665.
-[11] [12
+ [11] [12
 
 ]
 Package biblatex Info: Resetting trackers on input line 665.
@@ -2446,302 +2433,127 @@ LaTeX Info: Redefining \% on input line 667.
 
 ]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 669.
+Package biblatex Info: Resetting trackers on input line 670.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 669.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 671.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 671.
-
-! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-d.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.673 ...les impulsados por el \gls{@glo201-ceheal} 
-                                                  desde su creación en 2019...
-You need to define a glossary entry before you can use it.
-
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.25995pt on input line 673.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 673.
-(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 673.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.43994pt on input line 681.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `FourierOrns-Regular.otf' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-Package microtype Info: Character `k' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `r' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `v' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `w' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `x' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `y' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `.' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `,' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `:' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `;' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `!' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `?' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `@' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `%' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `*' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `+' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `(' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `)' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `/' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `-' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textendash ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textemdash ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquoteleft ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquoteright ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquotedblleft ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquotedblright ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `_' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textbackslash ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotesinglbase ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotedblbase ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglleft ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglright ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotleft ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotright ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textexclamdown ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquestiondown ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textbraceleft ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textbraceright ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textless ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textgreater ' is missing
-(microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-
-
-! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-d.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.693 ...les impulsados por el \gls{@glo201-ceheal} 
-                                                  desde su creación en 2019...
-You need to define a glossary entry before you can use it.
-
-LaTeX Info: Redefining \. on input line 695.
-LaTeX Info: Redefining \% on input line 695.
-LaTeX Info: Redefining \. on input line 695.
-LaTeX Info: Redefining \% on input line 695.
+(Font)              scaled to size 16.99188pt on input line 670.
+LaTeX Info: Redefining \. on input line 674.
+LaTeX Info: Redefining \% on input line 674.
+LaTeX Info: Redefining \. on input line 674.
+LaTeX Info: Redefining \% on input line 674.
 [1
 
 ] [2
 
 ]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 695.
+Package biblatex Info: Resetting trackers on input line 674.
+LaTeX Info: Redefining \. on input line 677.
+LaTeX Info: Redefining \% on input line 677.
+LaTeX Info: Redefining \. on input line 677.
+LaTeX Info: Redefining \% on input line 677.
+[3] [4
 
-! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-d.
+]
+Capítulo 3.
+Package biblatex Info: Resetting trackers on input line 677.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
+[5] [6
 
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.699 ...les impulsados por el \gls{@glo201-ceheal} 
-                                                  desde su creación en 2019...
-You need to define a glossary entry before you can use it.
+]
+Capítulo 4.
+Package biblatex Info: Resetting trackers on input line 680.
+LaTeX Info: Redefining \. on input line 747.
+LaTeX Info: Redefining \% on input line 747.
+LaTeX Info: Redefining \. on input line 747.
+LaTeX Info: Redefining \% on input line 747.
+[7] [8
 
-<./media/imagen1.jpg, id=183, 246.6816pt x 164.2938pt>
-File: ./media/imagen1.jpg Graphic file (type jpg)
-<use ./media/imagen1.jpg>
-Package luatex.def Info: ./media/imagen1.jpg  used on input line 704.
-(luatex.def)             Requested size: 312.9803pt x 208.47028pt.
+]
+Using TeX to sort glossary entries---this may take a while
+Package biblatex Info: Resetting trackers on input line 761.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 705.
+(Font)              scaled to size 11.79993pt on input line 761.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 9.69757pt on input line 761.
 
-! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-d.
+! Package glossaries Error: description key required in \newglossaryentry for e
+ntry `@glo204-libro'.
 
 See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.735 ...les impulsados por el \gls{@glo201-ceheal} 
-                                                  desde su creación en 2019...
-You need to define a glossary entry before you can use it.
+l.761 ...ype=\acronymtype,title={Índice de siglas}]
+                                                  
+You haven't specified the entry description
 
-LaTeX Info: Redefining \. on input line 737.
-LaTeX Info: Redefining \% on input line 737.
-LaTeX Info: Redefining \. on input line 737.
-LaTeX Info: Redefining \% on input line 737.
-[3<./media/imagen1.jpg>]
-LaTeX Info: Redefining \. on input line 737.
-LaTeX Info: Redefining \% on input line 737.
-LaTeX Info: Redefining \. on input line 737.
-LaTeX Info: Redefining \% on input line 737.
- [4]
+Using TeX to sort glossary entries---this may take a while
+LaTeX Info: Redefining \. on input line 762.
+LaTeX Info: Redefining \% on input line 762.
+LaTeX Info: Redefining \. on input line 762.
+LaTeX Info: Redefining \% on input line 762.
+[9
 
-Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acrony
-m}]. Rerun may be required (or you may have forgotten to use commands like \gls
-) on input line 751.
-
-
-Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]
-. Rerun may be required (or you may have forgotten to use commands like \gls) o
-n input line 752.
-
-Package biblatex Info: Resetting trackers on input line 753.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 753.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.61993pt on input line 753.
-LaTeX Info: Redefining \. on input line 780.
-LaTeX Info: Redefining \% on input line 780.
-LaTeX Info: Redefining \. on input line 780.
-LaTeX Info: Redefining \% on input line 780.
-[5
-
-
-] [6
-
-] (./names.ind
-Package biblatex Info: Resetting trackers on input line 1.
-)
-LaTeX Info: Redefining \. on input line 781.
-LaTeX Info: Redefining \% on input line 781.
-LaTeX Info: Redefining \. on input line 781.
-LaTeX Info: Redefining \% on input line 781.
- [7
-
-] [8
-
-] (./concepto.ind
-Package biblatex Info: Resetting trackers on input line 1.
-)
-LaTeX Info: Redefining \. on input line 782.
-LaTeX Info: Redefining \% on input line 782.
-LaTeX Info: Redefining \. on input line 782.
-LaTeX Info: Redefining \% on input line 782.
- [9
 
 ] [10
 
-] (./onomastico.ind
-Package biblatex Info: Resetting trackers on input line 1.
-)
-LaTeX Info: Redefining \. on input line 799.
-LaTeX Info: Redefining \% on input line 799.
-LaTeX Info: Redefining \. on input line 799.
-LaTeX Info: Redefining \% on input line 799.
-
-[11
+]
+Package biblatex Info: Resetting trackers on input line 762.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 11.79993pt on input line 762.
+LaTeX Info: Redefining \. on input line 763.
+LaTeX Info: Redefining \% on input line 763.
+LaTeX Info: Redefining \. on input line 763.
+LaTeX Info: Redefining \% on input line 763.
+ [11
 
 ] [12
 
 ]
-Package biblatex Info: Resetting trackers on input line 799.
-LaTeX Info: Redefining \. on input line 806.
-LaTeX Info: Redefining \% on input line 806.
-LaTeX Info: Redefining \. on input line 806.
-LaTeX Info: Redefining \% on input line 806.
- [13] (/usr/share/texmf-dist/tex/generic/stringenc/se-utf32be.def
+Package biblatex Info: Resetting trackers on input line 763.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 763.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 10.61993pt on input line 763.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 7.07996pt on input line 763.
+LaTeX Info: Redefining \. on input line 790.
+LaTeX Info: Redefining \% on input line 790.
+LaTeX Info: Redefining \. on input line 790.
+LaTeX Info: Redefining \% on input line 790.
+ [13] [14
+
+] (./names.ind
+Package biblatex Info: Resetting trackers on input line 1.
+)
+LaTeX Info: Redefining \. on input line 791.
+LaTeX Info: Redefining \% on input line 791.
+LaTeX Info: Redefining \. on input line 791.
+LaTeX Info: Redefining \% on input line 791.
+ [15
+
+] [16
+
+] (./concepto.ind)
+(./onomastico.ind)
+Package biblatex Info: Resetting trackers on input line 809.
+LaTeX Info: Redefining \. on input line 816.
+LaTeX Info: Redefining \% on input line 816.
+LaTeX Info: Redefining \. on input line 816.
+LaTeX Info: Redefining \% on input line 816.
+ [17
+
+
+]
+(/usr/share/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [14]
+) [18]
 
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `texindy names.idx'.
@@ -2764,38 +2576,33 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `pdf-CHARLAUNPaz.out' has not changed.
-(rerunfilecheck)             Checksum: 8477B61A97FFCBAFDE0B0A0832D6DCAE;1694.
+(rerunfilecheck)             Checksum: 15902BFB6C53D961A0126EFD603FB2C2;1630.
 Package logreq Info: Writing requests to 'pdf-CHARLAUNPaz.run.xml'.
 
 \openout1 = pdf-CHARLAUNPaz.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 53295 strings out of 476447
- 156362,2373549 words of node,token memory allocated
- 126121 words of node memory still in use:
-   578 hlist, 4 vlist, 320 rule, 4 ins, 1044 disc, 240 local_par, 4 math, 2248 g
-lue, 794 kern, 520 penalty, 55 margin_kern, 9260 glyph, 5849 attribute, 533 glue
-_spec, 837 attribute_list, 40 write, 2 pdf_literal, 68 pdf_start_link, 68 pdf_en
-d_link, 8 pdf_dest, 33 pdf_action, 338 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_sa
-ve, 6 pdf_restore nodes
-   avail lists: 1:13,2:309,3:53,4:14,5:92,6:2,7:998,8:18,9:56,10:12,11:118
- 73938 multiletter control sequences out of 65536+600000
- 73 fonts using 13304711 bytes
- 132i,7n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 53226 strings out of 476447
+ 125086,2373549 words of node,token memory allocated
+ 107878 words of node memory still in use:
+   449 hlist, 2 vlist, 262 rule, 899 disc, 195 local_par, 1979 glue, 729 kern, 4
+96 penalty, 69 margin_kern, 7830 glyph, 5093 attribute, 469 glue_spec, 729 attri
+bute_list, 39 write, 2 pdf_literal, 63 pdf_start_link, 63 pdf_end_link, 28 pdf_a
+ction, 298 pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:3,2:303,3:88,4:20,5:92,6:2,7:998,8:3,9:73,10:18,11:118
+ 73875 multiletter control sequences out of 65536+600000
+ 57 fonts using 11872639 bytes
+ 132i,6n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-It
-alic.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinu
-sSerif-Bold.otf></usr/share/texmf-dist/fonts/opentype/public/fourier/FourierOrns
--Regular.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed
--SemiBold.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
-d-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libe
-rtinusSerif-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on pdf-CHARLAUNPaz.pdf (28 pages, 311499 bytes).
+alic.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Sem
+iBold.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Re
+gular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertin
+usSerif-Regular.otf>
+Output written on pdf-CHARLAUNPaz.pdf (32 pages, 190320 bytes).
 
-PDF statistics: 314 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 131072)
- 133 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 282 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 54 named destinations out of 1000 (max. 131072)
+ 117 words of extra memory for PDF output out of 10000 (max. 100000000)
 
