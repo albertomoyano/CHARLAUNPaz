@@ -1,56 +1,56 @@
 % se define una variable condicional para cada formato de salida
-% a conditional variable is defined for each output format
 \newif\ifPDF%
-\newif\ifBNPDF%
+\newif\ifBLACKPDF%
 \newif\ifEPUB%
 \newif\ifHTML%
 \newif\ifODT%
 
- \PDFtrue
-% \BNPDFtrue
-% \EPUBtrue
-% \HTMLtrue
-% \ODTtrue
+%\PDFtrue
+\BLACKPDFtrue
+%\EPUBtrue
+%\HTMLtrue
+%\ODTtrue
 
 % agregamos las referencias
-% we added the references
 \addbibresource{./files/gbTeXbib-CHARLAUNPaz.bib}
-
 % agregamos el glosario
-% we added the glossary
 \input{./files/gbTeXglo-CHARLAUNPaz.tex}
 
-% los metadatos son opcionales en el PDF a diferencia del resto que es obligatorio y se cargan automáticamente
-% the metadata is optional in the PDF, unlike the rest which is mandatory and loaded automatically
-\ifODT
-\usepackage[unicode,hyperindex=true]{hyperref}
-\else
-	\ifPDF
-	% control de inconsistencias de principio y fin de linea
-	% inconsistency control of start and end of line (homeoarchy)
-	\usepackage[hyphenation,homeoarchy,draft,homeoarchywordcolor=yellow,homeoarchycharcolor=yellow]{impnattypo}
-	\usepackage[allcolors=magenta,colorlinks]{hyperref}
+\ifPDF
+\usepackage[hyphenation,homeoarchy,draft,homeoarchywordcolor=yellow,homeoarchycharcolor=orange]{impnattypo}
+\usepackage[allcolors=magenta,colorlinks]{hyperref}
+\usepackage{hyperxmp}
+\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
+	\else
+	\ifBLACKPDF
+	\usepackage[cam,width=18truecm,height=25.5truecm,center]{crop}
+	\usepackage[draft]{hyperref}
 	\usepackage{hyperxmp}
 	\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
-	\else
-		\ifBNPDF
-		\usepackage[cam,width=18truecm,height=25.5truecm,center]{crop}
-		\usepackage[hidelinks]{hyperref}
-		\usepackage{hyperxmp}
-		\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
 		\else
-			\ifEPUB
-			\usepackage[hyperindex=true,allcolors=magenta,colorlinks]{hyperref}
+		\ifEPUB
+		\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
+
+			\else
+			\ifHTML
+%			\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
+			\usepackage{hyperref}
+			\title{Literatura y pensamiento}
+			\date{\today}
+				\else
+				\ifODT
+				\usepackage[unicode,hyperindex=true]{hyperref}
+				\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
+				\fi
 			\fi
 		\fi
 	\fi
 \fi
 
-\usepackage{lipsum} % Incluye el paquete lipsum
 \begin{document}
 \frontmatter
 
-\ifEPUB%
+\ifEPUB
 	\ifdefined\HCode
 	\phantomsection
 	\addcontentsline{toc}{section}{Portada}
@@ -61,8 +61,8 @@
 
 \ifPDF
 \input{./files/inicio-frontmatter.tex}
-\else
-	\ifBNPDF
+	\else
+	\ifBLACKPDF
 	\input{./files/inicio-frontmatter.tex}
 	\fi
 \fi
@@ -70,13 +70,19 @@
 \tableofcontents
 
 \chapter{Agradecimientos}
-%\Author{Alberto Moyano}
+\ifPDF
+\Author{Alberto Moyano}
+	\else
+	\ifBLACKPDF
+	\Author{Alberto Moyano}
+	\fi
+\fi
 
-Este \gls{@glo204-libro} comenzó a ser escrito en el año 2015, con el inicio del dictado de clases de Literatura y Pensamiento en las carreras de Producción y Desarrollo de Videojuegos y Producción y Gestión Audiovisual en la \gls{@glo203-unpaz}. A través de estos años hemos elaborado diversos programas, dia\-logado e interpretado textos en clase, conversado y polemizado entre colegas, y nos hemos encerrado para volver a estudiar todo lo que supuestamente sabíamos, hasta llegar a la forma actual de la unidad curricular. Este recorrido ha sido lo suficientemente amplio y enriquecedor como para que haya resultado interesante, finalmente, dejar registro de él en este libro. Sin la participación de los ya cientos de estudiantes que han cursado la unidad curricular y de los diversos colegas que han trabajado en ella, este libro no exis\-tiría. Es imposible, por lo tanto, no sentirse agradecido con todas estas personas y con la \gls{@glo203-unpaz} por un proceso de aprendizaje tan desafiante, fértil y nutritivo.
+Este \gls{@glo204-libro} comenzó a ser escrito en el año 2015, con el inicio del dictado de clases de Literatura y Pensamiento en las carreras de Producción y Desarrollo de Videojuegos y Producción y Gestión Audiovisual en la \gls{@glo203-unpaz}. A través de estos años hemos elaborado diversos programas, dia\-logado e interpretado textos en clase, conversado y polemizado entre colegas, y nos hemos encerrado para volver a estudiar todo lo que supuestamente sabíamos, hasta llegar a la forma actual de la unidad curricular. Este recorrido ha sido lo suficientemente amplio y enriquecedor como para que haya resultado interesante, finalmente, dejar registro de él en este libro. Sin la participación de los ya cientos de estudiantes que han cursado la unidad curricular y de los diversos colegas que han trabajado en ella, este libro no exis\-tiría. Es imposible, por lo tanto, no sentirse agradecido con todas estas personas y con la \gls{@glo203-unpaz} por un proceso de aprendizaje tan desafiante, fértil y nutritivo \parencite{@3187-WELLS2014}.
 
 \chapter{Presentación}
 
-En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que intercambiaron en el marco de la unidad curricular Literatura y Pensamiento los textos que aquí se manifiestan. Dicha unidad curricular pertenece a las carreras de Producción y Desarrollo de Videojuegos y Producción y Gestión Audiovisual del Departamento de Economía, Producción e Innovación Tecnológica (DEPIT) de la \gls{@glo203-unpaz}. Aquí se abordan un grupo de textos literarios que, según el autor, se pueden denominar \enquote{clásicos} de nuestra literatura nacional, escritos y publicados en su mayor parte durante el siglo~XX. Su lectura invita a un espacio de reflexión e intercambio en torno a la compleja y prolífica vinculación entre territorio y literatura. Los textos se posicionan, polemizan, reflexionan en torno a las disputas sociales, políticas e ideológicas de la época.
+En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que intercambiaron en el marco de la unidad curricular Literatura y Pensamiento los textos que aquí se manifiestan. Dicha unidad curricular pertenece a las carreras de Producción y Desarrollo de Videojuegos y Producción y Gestión Audiovisual del Departamento de Economía, Producción e Innovación Tecnológica (DEPIT) de la \gls{@glo203-unpaz}. Aquí se abordan un grupo de textos literarios que, según el autor, se pueden denominar \enquote{clásicos} de nuestra literatura nacional, escritos y publicados en su mayor parte durante el siglo~XX. Su lectura invita a un espacio de reflexión e intercambio en torno a la compleja y prolífica vinculación entre territorio y literatura. Los textos se posicionan, polemizan, reflexionan en torno a las disputas sociales, políticas e ideológicas de la época \parencite{@3187-WELLS2014}.
 
 %La formación de \gls{@glo202-joseingenieros}\index[onomastico]{Ingenieros, José} fue universitaria y a diferencia del lugar tradicional del docente y del académico, su obra adquirió una marcada proyección política logrando complejas derivaciones que no son fácilmente encuadrables en un solo espacio partidario, si bien sus ideas estuvieron ligadas mayoritariamente a la tradición de izquierda socialista. Su vida y su obra habilitaron una diversidad de relecturas, de articulaciones políticas y de reapropiaciones teóricas. Esta particularidad caracterizó a \gls{@glo195-coas} y también a muchos de sus compañeros de militancia como el mexicano José Vasconcelos\index[onomastico]{Vasconcelos, José} o los argentinos Leopoldo Lugones\index[onomastico]{Lugones, Leopoldo} y Manuel Ugarte\index[onomastico]{Ugarte, Manuel} \parencite{@3070-TARKOVSKI1995}.
 
@@ -87,15 +93,38 @@ En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que interca
 %cap1
 \chapter{Fundaciones}
 
+\begin{quote}
+	\enquote{Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt sit amet, laoreet vitae, arcu. Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, molestie non, nonummy vel, nisl} \parencite{@3188-SHELLY2023}.
+\end{quote}
+
+Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tincidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In hac habitasse platea dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula.
+
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis. Maecenas eget erat in sapien mattis porttitor. Vestibulum porttitor.\footnote{Nulla facilisi.}
+
+Nulla facilisi. Sed a turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dignissim interdum, justo lectus sagittis dui, et vehicula libero dui cursus dui. Mauris tempor ligula sed lacus. Duis cursus enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabitur a leo. Quisque egestas wisi eget nunc. Nam feugiat lacus vel est. Curabitur consectetuer \parencite{@3190-QUIROGA2016}.
+
 \section{\enquote{El Matadero} de Esteban Echeverría}
 
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis. Maecenas eget erat in sapien mattis porttitor. Vestibulum porttitor \parencite{@3190-QUIROGA2016}.
+
 \section{La otra fundación: \emph{El gaucho Martín Fierro}}
+
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis \parencite{@3188-SHELLY2023}.
 
 \section{El encuentro entre Fierro y Cruz}
 
 \section{Fundaciones}
 
-\parencite{@3187-WELLS2014,@3188-SHELLY2023,@3189-QUIROGA2017,@3190-QUIROGA2016}
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis.
+
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis.\footnote{Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl.}
+
+\begin{quote}
+	\enquote{Suspendisse vel felis. Ut lorem lorem, interdum eu, tincidunt sit amet, laoreet vitae, arcu. Aenean faucibus pede eu ante. Praesent enim elit, rutrum at, molestie non, nonummy vel, nisl} \parencite{@3189-QUIROGA2017}.
+\end{quote}
+
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis.
+
 %cap2
 \chapter{Metamorfosis}
 
@@ -106,34 +135,28 @@ En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que interca
 %cap3
 \chapter{La victoria, la muerte y la representación}
 
-\section{Promulgación de la Ley N° 13010: discurso de Eva Duarte (1947)}
+\section{Promulgación de la ley n.° 13.010: discurso de Eva Duarte (1947)}
 
 \section{Muerte y desaparición del cuerpo de Eva Duarte}
 
 %cap4
 \chapter{Viajes en el tiempo}
 
-\lipsum[3-5]
 
 \section{Argentinización de la galaxia: ciencia ficción}
 
-\lipsum[4-9]
 
 \section{Autobiografía: los viajes en el tiempo del realismo}
 
-\lipsum[2-6]
 
 \section{Ampliación de los límites y las fronteras de los géneros}
 
-\lipsum[1-5]
 
 \section{La literatura de terror: ¿para qué sirve narrar?}
 
-\lipsum[1-5]
 
 \section{Literatura contemporánea}
 
-\lipsum[1-5]
 
 %\section{SecciónA}
 %
@@ -146,7 +169,7 @@ En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que interca
 %\ifPDF
 %\froufrou
 %\else
-%	\ifBNPDF
+%	\ifBLACKPDF
 %	\froufrou
 %	\else
 %		\ifODT
@@ -172,7 +195,7 @@ En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que interca
 %\caption{Este es el epígrafe de la figura a color, véase \textcite{@3159-FUNES2006}.}
 %\end{figure}
 %\else
-%	\ifBNPDF%
+%	\ifBLACKPDF%
 %	\begin{figure}[!ht]
 %	\centering
 %	\includegraphics[width=\textwidth]{./media/bn-imagen1.png}
@@ -203,69 +226,62 @@ En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que interca
 
 \backmatter
 
-%Condicional para llevar todas las notas a pie al final del libro como un capítulo.
-%Conditional to move all the footnotes to the end of the book as a chapter
-\ifEPUB
-\begingroup
-\parindent 0pt
-\parskip 2ex
-\def\enotesize{\normalsize}
-\theendnotes
-\endgroup
-\fi
-
 \ifPDF
 \printnoidxglossary[type=\acronymtype,title={Índice de siglas}]
 \printnoidxglossary[title={Glosario de términos}]
 \printbibliography[heading=none,heading=bibintoc]
-\else
-	\ifBNPDF
-	\printnoidxglossary[type=\acronymtype,title={Índice de siglas}]
-	\printnoidxglossary[title={Glosario de términos}]
-	\printbibliography[heading=none,heading=bibintoc]
+\printindex[names]
+\printindex[concepto]
+\printindex[onomastico]
+\Author{Índice de autoras y autores}
 	\else
-		\ifODT
+	\ifBLACKPDF
 		\printnoidxglossary[type=\acronymtype,title={Índice de siglas}]
 		\printnoidxglossary[title={Glosario de términos}]
 		\printbibliography[heading=none,heading=bibintoc]
+	\printindex[names]
+	\printindex[concepto]
+	\printindex[onomastico]
+	\Author{Índice de autoras y autores}
 		\else
-			\ifEPUB
-			\printnoidxglossary[type=\acronymtype,title={Índice de siglas}]
-			\printnoidxglossary[title={Glosario de términos}]
-			\chapter{Referencias bibliográficas}
-			\printbibliography[heading=none]
-			\fi
+	 	\ifEPUB
+	 	\begingroup
+	 	\parindent 0pt
+	 	\parskip 2ex
+	 	\def\enotesize{\normalsize}
+	 	\theendnotes
+	 	\endgroup
+	 	\printnoidxglossary[type=\acronymtype,title={Índice de siglas}]
+	 	\printnoidxglossary[title={Glosario de términos}]
+	 	\chapter{Referencias bibliográficas}
+	 	\printbibliography[heading=none]
+	 	\printindex[names]
+	 	\printindex[concepto]
+	 	\printindex[onomastico]
+	 		\else
+	 		\ifHTML
+	 		\ForceHTMLPage
+	 		\printnoidxglossary[title={Índice de siglas},type=\acronymtype]
+	 		\ForceHTMLPage
+	 		\printnoidxglossary[title={Glosario de términos}]
+	 		\ForceHTMLPage
+	 		\printbibliography[heading=bibintoc]
+	 			\else
+	 			\ifODT
+	 			\printnoidxglossary[type=\acronymtype,title={Índice de siglas}]
+	 			\printnoidxglossary[title={Glosario de términos}]
+	 			\printbibliography[heading=none,heading=bibintoc]
+	 			\fi
+	 		\fi
 		\fi
 	\fi
 \fi
 
 
 
-
-
-\ifPDF
-\printindex[names]
-\printindex[concepto]
-\printindex[onomastico]
-\Author{Índice de autoras y autores}
-\else
-	\ifBNPDF
-	\printindex[names]
-	\printindex[concepto]
-	\printindex[onomastico]
-	\Author{Índice de autoras y autores}
-% \else
-% 	\ifEPUB
-% 	\printindex[names]
-% 	\printindex[concepto]
-% 	\printindex[onomastico]
-% 	\fi
-	\fi
-\fi
-
 \chapter{Colofón}
 
-La composición tipográfica de este libro se realizó utilizando gbTeXpublisher.
+La composición tipográfica de este libro se realizó utilizando \href{https://github.com/albertomoyano/gbtexpublisher}{gbTeXpublisher.}
 
 Las familias tipográficas utilizadas dentro del libro son: IBM Plex, una superfamilia de tipografía abierta, diseñada y desarrollada conceptualmente por Mike Abbink en IBM con colaboración de Bold Monday y Libertinus, bifurcación de la fuente Linux Libertine, diseñada para el texto del cuerpo y la lectura extendida.
 
@@ -273,8 +289,8 @@ Las familias tipográficas utilizadas dentro del libro son: IBM Plex, una superf
 \newpage
 \thispagestyle{empty}
 {\textcolor{white}{.}}
-\else
-	\ifBNPDF
+	\else
+	\ifBLACKPDF
 	\newpage
 	\thispagestyle{empty}
 	{\textcolor{white}{.}}

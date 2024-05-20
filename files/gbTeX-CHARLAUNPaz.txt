@@ -1,36 +1,36 @@
 File: pdf-CHARLAUNPaz.tex
 Encoding: utf8
-Sum count: 468
-Words in text: 364
-Words in headers: 104
-Words outside text (captions, etc.): 0
-Number of headers: 22
+Sum count: 950
+Words in text: 820
+Words in headers: 107
+Words outside text (captions, etc.): 23
+Number of headers: 23
 Number of floats/tables/figures: 0
 Number of math inlines: 0
 Number of math displayed: 0
 Subcounts:
   text+headers+captions (#headers/#floats/#inlines/#displayed)
-  2+0+0 (0/0/0/0) Chapter: \glsresetall
-  161+1+0 (1/0/0/0) Chapter: Agradecimientos
-  128+1+0 (1/0/0/0) Chapter: Presentación
+  2+3+0 (1/0/0/0) Chapter: \glsresetall
+  166+1+0 (1/0/0/0) Chapter: Agradecimientos
+  129+1+0 (1/0/0/0) Chapter: Presentación
   0+1+0 (1/0/0/0) Chapter: Introducción
-  0+1+0 (1/0/0/0) Chapter: Fundaciones
-  0+5+0 (1/0/0/0) Section: \enquote{El Matadero} de Esteban Echeverría
-  0+7+0 (1/0/0/0) Section: La otra fundación: \emph{El gaucho Martín Fierro}
+  208+1+2 (1/0/0/0) Chapter: Fundaciones
+  51+5+0 (1/0/0/0) Section: \enquote{El Matadero} de Esteban Echeverría
+  42+7+0 (1/0/0/0) Section: La otra fundación: \emph{El gaucho Martín Fierro}
   0+6+0 (1/0/0/0) Section: El encuentro entre Fierro y Cruz
-  4+1+0 (1/0/0/0) Section: Fundaciones
+  153+1+21 (1/0/0/0) Section: Fundaciones
   0+1+0 (1/0/0/0) Chapter: Metamorfosis
   0+6+0 (1/0/0/0) Section: La batalla de las primeras personas
   0+7+0 (1/0/0/0) Section: Los peligros del olvido de los orígenes
   0+7+0 (1/0/0/0) Chapter: La victoria, la muerte y la representación
-  0+11+0 (1/0/0/0) Section: Promulgación de la Ley N° 13010: discurso de Eva Duarte (1947)
+  0+11+0 (1/0/0/0) Section: Promulgación de la ley n.° 13.010: discurso de Eva Duarte (1947)
   0+8+0 (1/0/0/0) Section: Muerte y desaparición del cuerpo de Eva Duarte
   0+4+0 (1/0/0/0) Chapter: Viajes en el tiempo
   0+6+0 (1/0/0/0) Section: Argentinización de la galaxia: ciencia ficción
   0+8+0 (1/0/0/0) Section: Autobiografía: los viajes en el tiempo del realismo
   0+10+0 (1/0/0/0) Section: Ampliación de los límites y las fronteras de los géneros
   0+8+0 (1/0/0/0) Section: La literatura de terror: ¿para qué sirve narrar?
-  2+2+0 (1/0/0/0) Section: Literatura contemporánea
-  10+2+0 (1/0/0/0) Chapter: Referencias bibliográficas
+  12+2+0 (1/0/0/0) Section: Literatura contemporánea
+  0+2+0 (1/0/0/0) Chapter: Referencias bibliográficas
   57+1+0 (1/0/0/0) Chapter: Colofón
 

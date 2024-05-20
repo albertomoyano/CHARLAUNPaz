@@ -2,22 +2,17 @@
 \usepackage[
 HomeHTMLFilename=index,% Filename of the homepage.
 HTMLFilename={node-},% Filename prefix of other pages.
-mathjax,%Use MathJax to display math.
+mathjax,% Use MathJax to display math.
 xindy,
 latexmk]{lwarp}
-\usepackage{lipsum}
 
 \usepackage[spanish]{babel}
 \usepackage{csquotes}
 \usepackage{graphicx}
 \usepackage[backend=biber,backref=true,indexing=cite,citestyle=authoryear,style=authoryear]{biblatex}
-%\usepackage[xindy,toc,numberedsection=nolabel]{glossaries}
 \usepackage[xindy,acronym,sanitizesort,toc=true,nonumberlist]{glossaries}
 \makenoidxglossaries
 
-%hyperref siempre debe quedar último
-\usepackage{hyperref}
-% termina preámbulo predefinido
 
 %comienza preámbulo dinámico desde la base de datos
 \boolfalse{FileSectionNames}% If false, numbers the files.
@@ -25,10 +20,10 @@ latexmk]{lwarp}
 \renewcommand{\linkpreviousname}{Anterior}
 \renewcommand{\linknextname}{Siguiente}
 \renewcommand{\sidetocname}{Sumario}
-\setcounter{tocdepth}{2}% Include subsections in the \TOC.
+\setcounter{tocdepth}{1}% Include subsections in the \TOC.
 \setcounter{secnumdepth}{2}% Number down to subsections.
 \setcounter{FileDepth}{1}% Split \HTML\ files at sections
-\setcounter{FootnoteDepth}{1}
+\setcounter{FootnoteDepth}{111}
 \booltrue{CombineHigherDepths}% Combine parts/chapters/sections
 \setcounter{SideTOCDepth}{1}% Include subsections in the side\TOC
 \HTMLTitle{Después de parir}% Overrides \title for the web page.

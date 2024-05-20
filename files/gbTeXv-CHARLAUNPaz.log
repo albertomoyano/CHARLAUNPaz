@@ -74,16 +74,12 @@ pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
       (hyperref)                setting the option has no effect on input line 22.
 ----------------
 From file DUMMY:
+pg 1: Package hyperref Warning: Draft mode on.
 pg 15: Capítulo 1.
 pg 17: Capítulo 2.
 pg 19: Capítulo 3.
 pg 21: Capítulo 4.
-pg 21: Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
-       (lipsum)                'spanish' will be used instead.
-       (lipsum)                
-       (lipsum)                With LuaTeX, lipsum requires babel to get proper
-       (lipsum)                hyphenation (you can use \usepackage[base]{babel}).
-pg 31: Using TeX to sort glossary entries---this may take a while
+pg 23: Using TeX to sort glossary entries---this may take a while
 
 After last page:
 
