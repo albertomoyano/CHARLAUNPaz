@@ -58,7 +58,7 @@ pg 1: ! Package kvsetkeys Error: Undefined key `pdfsubtitle'.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfsubtitle' is `Hyp'.
 pg 1: The setting of the key is ignored because of the error.
 pg 1: Try typing  <return>  to proceed.
@@ -68,115 +68,136 @@ pg 1: ! Package kvsetkeys Error: Undefined key `pdfdate'.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfdate' is `Hyp'.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfmetadate'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.32 }
+pg 1: The keyval family of the key `pdfmetadate' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcopyright'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfcopyright' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdflicenseurl'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdflicenseurl' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcaptionwriter'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfcaptionwriter' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcontactcountry'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfcontactcountry' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcontactemail'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfcontactemail' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfpubtype'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfpubtype' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfvolumenum'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfvolumenum' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfpagerange'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfpagerange' is `Hyp'.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfbookedition'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.32 }
+pg 1: The keyval family of the key `pdfbookedition' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfisbn'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfisbn' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfpubstatus'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfpubstatus' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfmetalang'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfmetalang' is `Hyp'.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfurl'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.32 }
+pg 1: The keyval family of the key `pdfurl' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfrendition'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfrendition' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfx' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfformato'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.29 }
+      l.32 }
 pg 1: The keyval family of the key `pdfformato' is `Hyp'.
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
-      (hyperref)                setting the option has no effect on input line 29.
+      (hyperref)                setting the option has no effect on input line 32.
 ----------------
 From file DUMMY:
 pg 15: Capítulo 1.
-pg 17: Capítulo 2.
-pg 19: Capítulo 3.
-pg 21: Capítulo 4.
-pg 23: Using TeX to sort glossary entries---this may take a while
+pg 19: Capítulo 2.
+pg 21: Capítulo 3.
+pg 23: Capítulo 4.
+pg 27: Using TeX to sort glossary entries---this may take a while
 
 After last page:
 

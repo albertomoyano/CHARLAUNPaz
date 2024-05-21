@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  21 MAY 2024 08:59
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  21 MAY 2024 19:20
  restricted system commands enabled.
 **pdf-CHARLAUNPaz.tex
 (./pdf-CHARLAUNPaz.tex
@@ -1965,7 +1965,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfsubtitle' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -1980,9 +1980,24 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfdate' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdfmetadate'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 }
+    
+The keyval family of the key `pdfmetadate' is `Hyp'.
 The setting of the key is ignored because of the error.
 
 Try typing  <return>  to proceed.
@@ -1995,7 +2010,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfcopyright' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2010,7 +2025,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdflicenseurl' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2025,7 +2040,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfcaptionwriter' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2040,7 +2055,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfcontactcountry' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2055,7 +2070,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfcontactemail' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2070,7 +2085,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfpubtype' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2085,7 +2100,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfvolumenum' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2100,9 +2115,24 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfpagerange' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdfbookedition'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 }
+    
+The keyval family of the key `pdfbookedition' is `Hyp'.
 The setting of the key is ignored because of the error.
 
 Try typing  <return>  to proceed.
@@ -2115,7 +2145,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfisbn' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2130,7 +2160,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfpubstatus' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2145,9 +2175,24 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfmetalang' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdfurl'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 }
+    
+The keyval family of the key `pdfurl' is `Hyp'.
 The setting of the key is ignored because of the error.
 
 Try typing  <return>  to proceed.
@@ -2160,7 +2205,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfrendition' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2175,7 +2220,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfx' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2190,7 +2235,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 }
+l.32 }
     
 The keyval family of the key `pdfformato' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2198,14 +2243,14 @@ The setting of the key is ignored because of the error.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Package hyperref Info: Option `unicode' set `true' on input line 29.
+Package hyperref Info: Option `unicode' set `true' on input line 32.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 29.
+(hyperref)                setting the option has no effect on input line 32.
 
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 29.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 32.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 29.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 32.
 ) (/usr/share/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
 Package: hyperxmp 2023/09/10 v5.12 Store hyperref metadata in XMP format
 \hyxmp@aep@toks=\toks69
@@ -2577,11 +2622,11 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 14.15991pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 39.
-<./media/unpaz_logo.png, id=125, 96.36pt x 33.4851pt>
+<./media/unpaz_logo.png, id=125, 96.36pt x 24.3309pt>
 File: ./media/unpaz_logo.png Graphic file (type png)
 <use ./media/unpaz_logo.png>
 Package luatex.def Info: ./media/unpaz_logo.png  used on input line 46.
-(luatex.def)             Requested size: 113.81102pt x 39.54936pt.
+(luatex.def)             Requested size: 113.81102pt x 28.73729pt.
  [5<./media/unpaz_logo.png>]
 <./media/logo-GNU.png, id=132, 1027.84pt x 1004.75375pt>
 File: ./media/logo-GNU.png Graphic file (type png)
@@ -2622,147 +2667,172 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 \tf@toc=\write10
 
 \openout10 = pdf-CHARLAUNPaz.toc
-LaTeX Info: Redefining \. on input line 654.
-LaTeX Info: Redefining \% on input line 654.
-LaTeX Info: Redefining \. on input line 654.
-LaTeX Info: Redefining \% on input line 654.
+LaTeX Info: Redefining \. on input line 659.
+LaTeX Info: Redefining \% on input line 659.
+LaTeX Info: Redefining \. on input line 659.
+LaTeX Info: Redefining \% on input line 659.
  [7
 
 ] [8
 
 ]
-Package biblatex Info: Resetting trackers on input line 654.
-LaTeX Info: Redefining \. on input line 665.
-LaTeX Info: Redefining \% on input line 665.
-LaTeX Info: Redefining \. on input line 665.
-LaTeX Info: Redefining \% on input line 665.
+Package biblatex Info: Resetting trackers on input line 659.
+LaTeX Info: Redefining \. on input line 670.
+LaTeX Info: Redefining \% on input line 670.
+LaTeX Info: Redefining \. on input line 670.
+LaTeX Info: Redefining \% on input line 670.
  [9] [10
 
 ]
-Package biblatex Info: Resetting trackers on input line 665.
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
-LaTeX Info: Redefining \. on input line 671.
-LaTeX Info: Redefining \% on input line 671.
+Package biblatex Info: Resetting trackers on input line 670.
+LaTeX Info: Redefining \. on input line 674.
+LaTeX Info: Redefining \% on input line 674.
+LaTeX Info: Redefining \. on input line 674.
+LaTeX Info: Redefining \% on input line 674.
  [11] [12
 
 ]
-Package biblatex Info: Resetting trackers on input line 671.
-LaTeX Info: Redefining \. on input line 673.
-LaTeX Info: Redefining \% on input line 673.
-LaTeX Info: Redefining \. on input line 673.
-LaTeX Info: Redefining \% on input line 673.
+Package biblatex Info: Resetting trackers on input line 674.
+LaTeX Info: Redefining \. on input line 676.
+LaTeX Info: Redefining \% on input line 676.
+LaTeX Info: Redefining \. on input line 676.
+LaTeX Info: Redefining \% on input line 676.
  [13] [14
 
 ]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 676.
+Package biblatex Info: Resetting trackers on input line 679.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 676.
+(Font)              scaled to size 16.99188pt on input line 679.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 9.69757pt on input line 691.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 11.63708pt on input line 691.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 684.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 688.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 688.
-LaTeX Info: Redefining \. on input line 692.
-LaTeX Info: Redefining \% on input line 692.
-LaTeX Info: Redefining \. on input line 692.
-LaTeX Info: Redefining \% on input line 692.
+(Font)              scaled to size 6.86723pt on input line 693.
+LaTeX Info: Redefining \. on input line 695.
+LaTeX Info: Redefining \% on input line 695.
+LaTeX Info: Redefining \. on input line 695.
+LaTeX Info: Redefining \% on input line 695.
 [1
 
 ]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/it' will be
-(Font)              scaled to size 11.63708pt on input line 692.
+(Font)              scaled to size 11.63708pt on input line 695.
 LaTeX Info: Redefining \. on input line 711.
 LaTeX Info: Redefining \% on input line 711.
 LaTeX Info: Redefining \. on input line 711.
 LaTeX Info: Redefining \% on input line 711.
  [2]
+LaTeX Info: Redefining \. on input line 718.
+LaTeX Info: Redefining \% on input line 718.
+LaTeX Info: Redefining \. on input line 718.
+LaTeX Info: Redefining \% on input line 718.
+ [3] [4
+
+]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 711.
-LaTeX Info: Redefining \. on input line 718.
-LaTeX Info: Redefining \% on input line 718.
-LaTeX Info: Redefining \. on input line 718.
-LaTeX Info: Redefining \% on input line 718.
-[3
-
-] [4
-
-]
-Capítulo 3.
 Package biblatex Info: Resetting trackers on input line 718.
-LaTeX Info: Redefining \. on input line 725.
-LaTeX Info: Redefining \% on input line 725.
-LaTeX Info: Redefining \. on input line 725.
-LaTeX Info: Redefining \% on input line 725.
-[5] [6
+LaTeX Info: Redefining \. on input line 733.
+LaTeX Info: Redefining \% on input line 733.
+LaTeX Info: Redefining \. on input line 733.
+LaTeX Info: Redefining \% on input line 733.
+[5]
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
+ [6]
+Capítulo 3.
+Package biblatex Info: Resetting trackers on input line 737.
+LaTeX Info: Redefining \. on input line 750.
+LaTeX Info: Redefining \% on input line 750.
+LaTeX Info: Redefining \. on input line 750.
+LaTeX Info: Redefining \% on input line 750.
+[7
 
 ]
+LaTeX Info: Redefining \. on input line 754.
+LaTeX Info: Redefining \% on input line 754.
+LaTeX Info: Redefining \. on input line 754.
+LaTeX Info: Redefining \% on input line 754.
+ [8]
 Capítulo 4.
-Package biblatex Info: Resetting trackers on input line 725.
-LaTeX Info: Redefining \. on input line 809.
-LaTeX Info: Redefining \% on input line 809.
-LaTeX Info: Redefining \. on input line 809.
-LaTeX Info: Redefining \% on input line 809.
-[7] [8
-
-]
-Using TeX to sort glossary entries---this may take a while
-Package biblatex Info: Resetting trackers on input line 812.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 812.
-Using TeX to sort glossary entries---this may take a while
-LaTeX Info: Redefining \. on input line 813.
-LaTeX Info: Redefining \% on input line 813.
-LaTeX Info: Redefining \. on input line 813.
-LaTeX Info: Redefining \% on input line 813.
+Package biblatex Info: Resetting trackers on input line 754.
+LaTeX Info: Redefining \. on input line 769.
+LaTeX Info: Redefining \% on input line 769.
+LaTeX Info: Redefining \. on input line 769.
+LaTeX Info: Redefining \% on input line 769.
 [9
 
-
-] [10
+]
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
+ [10]
+LaTeX Info: Redefining \. on input line 852.
+LaTeX Info: Redefining \% on input line 852.
+LaTeX Info: Redefining \. on input line 852.
+LaTeX Info: Redefining \% on input line 852.
+ [11] [12
 
 ]
-Package biblatex Info: Resetting trackers on input line 813.
-LaTeX Info: Redefining \. on input line 814.
-LaTeX Info: Redefining \% on input line 814.
-LaTeX Info: Redefining \. on input line 814.
-LaTeX Info: Redefining \% on input line 814.
- [11
+Using TeX to sort glossary entries---this may take a while
+Package biblatex Info: Resetting trackers on input line 855.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 855.
+Using TeX to sort glossary entries---this may take a while
+LaTeX Info: Redefining \. on input line 856.
+LaTeX Info: Redefining \% on input line 856.
+LaTeX Info: Redefining \. on input line 856.
+LaTeX Info: Redefining \% on input line 856.
+[13
 
-] [12
+
+] [14
 
 ]
-Package biblatex Info: Resetting trackers on input line 814.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 814.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.07996pt on input line 814.
-LaTeX Info: Redefining \. on input line 815.
-LaTeX Info: Redefining \% on input line 815.
-LaTeX Info: Redefining \. on input line 815.
-LaTeX Info: Redefining \% on input line 815.
- [13] [14
-
-] (./names.ind
-Package biblatex Info: Resetting trackers on input line 1.
-)
-LaTeX Info: Redefining \. on input line 816.
-LaTeX Info: Redefining \% on input line 816.
-LaTeX Info: Redefining \. on input line 816.
-LaTeX Info: Redefining \% on input line 816.
+Package biblatex Info: Resetting trackers on input line 856.
+LaTeX Info: Redefining \. on input line 857.
+LaTeX Info: Redefining \% on input line 857.
+LaTeX Info: Redefining \. on input line 857.
+LaTeX Info: Redefining \% on input line 857.
  [15
 
 ] [16
 
+]
+Package biblatex Info: Resetting trackers on input line 857.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 857.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 7.07996pt on input line 857.
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
+ [17] [18
+
+] (./names.ind
+Package biblatex Info: Resetting trackers on input line 1.
+)
+LaTeX Info: Redefining \. on input line 859.
+LaTeX Info: Redefining \% on input line 859.
+LaTeX Info: Redefining \. on input line 859.
+LaTeX Info: Redefining \% on input line 859.
+ [19
+
+] [20
+
 ] (./concepto.ind)
 (./onomastico.ind)
-Package biblatex Info: Resetting trackers on input line 864.
-LaTeX Info: Redefining \. on input line 871.
-LaTeX Info: Redefining \% on input line 871.
-LaTeX Info: Redefining \. on input line 871.
-LaTeX Info: Redefining \% on input line 871.
- [17
+Package biblatex Info: Resetting trackers on input line 907.
+LaTeX Info: Redefining \. on input line 914.
+LaTeX Info: Redefining \% on input line 914.
+LaTeX Info: Redefining \. on input line 914.
+LaTeX Info: Redefining \% on input line 914.
+ [21
 
 
 ]
@@ -2771,7 +2841,7 @@ File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [18]
+) [22]
 
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `texindy names.idx'.
@@ -2801,15 +2871,15 @@ Package logreq Info: Writing requests to 'pdf-CHARLAUNPaz.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 53389 strings out of 476447
- 244334,2373549 words of node,token memory allocated
- 197579 words of node memory still in use:
-   727 hlist, 2 vlist, 531 rule, 4 ins, 1582 disc, 297 local_par, 7 math, 3469 g
-lue, 1484 kern, 696 penalty, 79 margin_kern, 14854 glyph, 9314 attribute, 679 gl
-ue_spec, 1332 attribute_list, 57 write, 2 pdf_literal, 110 pdf_start_link, 112 p
-df_end_link, 7 pdf_dest, 57 pdf_action, 550 pdf_colorstack, 4 pdf_setmatrix, 4 p
-df_save, 4 pdf_restore nodes
-   avail lists: 1:10,2:301,3:87,4:20,5:95,6:2,7:1021,8:53,9:72,10:10,11:123
+ 53394 strings out of 476447
+ 381779,2373549 words of node,token memory allocated
+ 309302 words of node memory still in use:
+   801 hlist, 2 vlist, 537 rule, 6 ins, 2959 disc, 330 local_par, 9 math, 5160 g
+lue, 2071 kern, 763 penalty, 106 margin_kern, 26086 glyph, 9923 attribute, 787 g
+lue_spec, 1419 attribute_list, 54 write, 2 pdf_literal, 109 pdf_start_link, 111 
+pdf_end_link, 9 pdf_dest, 58 pdf_action, 548 pdf_colorstack, 4 pdf_setmatrix, 4 
+pdf_save, 4 pdf_restore nodes
+   avail lists: 1:11,2:301,3:87,4:20,5:95,6:2,7:1021,8:53,9:72,10:10,11:135
  74018 multiletter control sequences out of 65536+600000
  74 fonts using 13793039 bytes
  132i,7n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2819,10 +2889,10 @@ old.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-Italic.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansConde
 nsed-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/L
 ibertinusSerif-Regular.otf>
-Output written on pdf-CHARLAUNPaz.pdf (32 pages, 211542 bytes).
+Output written on pdf-CHARLAUNPaz.pdf (36 pages, 221244 bytes).
 
-PDF statistics: 394 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 131072)
+PDF statistics: 413 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 74 named destinations out of 1000 (max. 131072)
  221 words of extra memory for PDF output out of 10000 (max. 100000000)
 
