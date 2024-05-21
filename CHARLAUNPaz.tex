@@ -6,9 +6,9 @@
 \newif\ifODT%
 
 %\PDFtrue
-\BLACKPDFtrue
+%\BLACKPDFtrue
 %\EPUBtrue
-%\HTMLtrue
+\HTMLtrue
 %\ODTtrue
 
 % agregamos las referencias
@@ -19,22 +19,21 @@
 \ifPDF
 \usepackage[hyphenation,homeoarchy,draft,homeoarchywordcolor=yellow,homeoarchycharcolor=orange]{impnattypo}
 \usepackage[allcolors=magenta,colorlinks]{hyperref}
-\usepackage{hyperxmp}
 \input{./files/gbTeXmeta-CHARLAUNPaz.tex}
+\usepackage{hyperxmp}
 	\else
 	\ifBLACKPDF
 	\usepackage[cam,width=18truecm,height=25.5truecm,center]{crop}
 	\usepackage[draft]{hyperref}
-	\usepackage{hyperxmp}
 	\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
+	\usepackage{hyperxmp}
 		\else
 		\ifEPUB
-		\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
 
 			\else
 			\ifHTML
-%			\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
 			\usepackage{hyperref}
+			\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
 			\title{Literatura y pensamiento}
 			\date{\today}
 				\else
@@ -99,9 +98,9 @@ En este \gls{@glo204-libro} resuenan voces de estudiantes y docentes que interca
 
 Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tincidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In hac habitasse platea dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula.
 
-Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis. Maecenas eget erat in sapien mattis porttitor. Vestibulum porttitor.\footnote{Nulla facilisi.}
+Fusce mauris. Vestibulum luctus nibh at lectus. Sed bibendum, nulla a faucibus semper, leo velit ultricies tellus, ac venenatis arcu wisi vel nisl. Vestibulum diam. Aliquam pellentesque, augue quis sagittis posuere, turpis lacus congue quam, in hendrerit risus eros eget felis. Maecenas eget erat in sapien mattis porttitor. Vestibulum porttitor.
 
-Nulla facilisi. Sed a turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dignissim interdum, justo lectus sagittis dui, et vehicula libero dui cursus dui. Mauris tempor ligula sed lacus. Duis cursus enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabitur a leo. Quisque egestas wisi eget nunc. Nam feugiat lacus vel est. Curabitur consectetuer \parencite{@3190-QUIROGA2016}.
+Nulla facilisi. Sed a turpis eu lacus commodo facilisis. Morbi fringilla, wisi in dignissim interdum, justo lectus sagittis dui, et vehicula libero dui cursus dui. Mauris tempor ligula sed lacus. Duis cursus enim ut augue. Cras ac magna. Cras nulla. Nulla egestas. Curabitur a leo. Quisque egestas wisi eget nunc. Nam feugiat lacus vel est. Curabitur consectetuer \parencite{@3190-QUIROGA2016}.\footnote{Nulla facilisi.}
 
 \section{\enquote{El Matadero} de Esteban Echeverría}
 
