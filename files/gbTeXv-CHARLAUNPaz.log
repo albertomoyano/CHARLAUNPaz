@@ -193,11 +193,11 @@ pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
       (hyperref)                setting the option has no effect on input line 32.
 ----------------
 From file DUMMY:
-pg 15: Capítulo 1.
-pg 19: Capítulo 2.
-pg 21: Capítulo 3.
-pg 23: Capítulo 4.
-pg 27: Using TeX to sort glossary entries---this may take a while
+pg 17: Capítulo 1.
+pg 21: Capítulo 2.
+pg 23: Capítulo 3.
+pg 25: Capítulo 4.
+pg 29: Using TeX to sort glossary entries---this may take a while
 
 After last page:
 
