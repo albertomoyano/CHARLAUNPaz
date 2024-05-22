@@ -23,15 +23,6 @@ td center { margin-top:0em; margin-bottom:0em; }
 .Canvas { position:relative; }
 img.math{vertical-align:middle;}
 div.par-math-display, div.math-display{text-align:center;}
-body{ margin:1em auto; max-width:80ch; padding:0 .62em; }
-h1,h2,h3,h4,h5 { line-height:1.2; }
-@media print{ body{ max-width:none } }
-.partHead, .likepartHead { font-size: 2em; }
-.chapterHead, .likechapterHead { font-size: 1.7411em; }
-.sectionHead, .likesectionHead { font-size: 1.5157em; }
-.subsectionHead, .likesubsectionHead { font-size: 1.3195em; }
-.subsubsectionHead, .likesubsubsectionHead { font-size: 1.1487em; }
- @media (prefers-color-scheme: dark) { img[src^="epub3-CHARLAUNPaz"]{filter: invert(1); } } 
 li p.indent { text-indent: 0em }
 li p:first-child{ margin-top:0em; }
 li p:last-child, li div:last-child { margin-bottom:0.5em; }
@@ -114,9 +105,6 @@ table.pmatrix {width:100%;}
 span.bar-css {text-decoration:overline;}
 img.cdots{vertical-align:middle;}
 .newpage{page-break-before:always;}
-nav.toc ol{list-style: none;}
-.footnote{font-size:small;}
-.footnotes hr{width:30%;margin:0 auto 0 0;}
 .rotatebox{display: inline-block;}
 .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
 .chapterToc a, .chapterToc, .likechapterToc a, .likechapterToc, .appendixToc a, .appendixToc {line-height: 200%; font-weight:bold;}
@@ -144,11 +132,6 @@ h1.partHead{text-align: center}
  .likesubsubsectionToc, .subsubsectionToc {margin-left:3em;}
 .paragraphToc, .likeparagraphToc {margin-left:4em;}
 .subparagraphToc, .likesubparagraphToc {margin-left:5em;}
-figure.float, div.figure {margin-left: auto; margin-right: auto;}
-figure.figure {text-align:center;}
-figcaption.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:center;}
-figcaption.caption span.id{font-weight: bold; white-space: nowrap; }
-p + figcaption, img + figcaption{margin-top: 1em;}
 .poemtitle, likepoemtitle {margin-left:2em; margin-bottom:0.5em;}
 .skip-verseline {margin-top: 1em;}
 .skip-verseline, .verseline {white-space: nowrap;}
@@ -159,12 +142,6 @@ p + figcaption, img + figcaption{margin-top: 1em;}
 div.abstract p {margin-left:5%; margin-right:5%;}
 div.abstract {width:100%;}
 .abstracttitle{text-align:center;margin-bottom:1em;}
-figure.float, div.figure {margin-left: auto; margin-right: auto;}
-figure.figure {text-align:center;}
-figcaption.caption {text-indent:-2em; margin-left:3em; margin-right:1em; text-align:center;}
-figcaption.caption span.id{font-weight: bold; white-space: nowrap; }
-p + figcaption, img + figcaption{margin-top: 1em;}
-.abstract{margin:1em;}
 div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
 table.tabular td p{margin-top:0em;}
 table.tabular {margin-left: auto; margin-right: auto;}

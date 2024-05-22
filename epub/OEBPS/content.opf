@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' ?> 
+<package unique-identifier='dcidid' version='2.0' xmlns='http://www.idpf.org/2007/opf'> 
+<metadata xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:opf='http://www.idpf.org/2007/opf'> 
+<dc:title>Literatura y Pensamiento: Caja de herramientas para el
+análisis literario</dc:title> 
+<dc:language>es-ES</dc:language> 
+<dc:identifier id='dcidid' opf:scheme='URI'>http://example.com/epub-CHARLAUNPaz</dc:identifier> 
+<dc:creator>Andrés Racket</dc:creator> 
+<dc:date>2024-05-22T17:53:00Z</dc:date>  
+<dc:subject>clave1,clave2,clave3,clave4</dc:subject> 
+<dc:date>2023-12</dc:date> 
+<dc:created></dc:created> 
+<dc:modified></dc:modified> 
+<dc:rights>CC BY-NC 4.0 Attribution-NonCommercial 4.0 International</dc:rights> 
+<dc:identifier id='uuid' opf:scheme='UUID'></dc:identifier> 
+<dc:publisher></dc:publisher> 
+<dc:identifier id='bookid'>978-987-8262-33-8</dc:identifier> 
+<dc:identifier id='bookid' opf:scheme='URI'>https://edunpaz.unpaz.edu.ar/OMP/index.php/edunpaz/catalog/book/108</dc:identifier> 
+<dc:description>Resumen en idioma principal</dc:description> 
+<dc:relation>Morral de apuntes</dc:relation> 
+<dc:contributor opf:role='edt'>Desconocida</dc:contributor> 
+<dc:contributor opf:role='trl'>Nombre y Apellido del traductor</dc:contributor> 
+<dc:contributor opf:role='ill'>Nombre y Apellido del ilustrador</dc:contributor> 
+<dc:format>EPUB</dc:format> 
+<dc:subject>clave1,clave2,clave3,clave4</dc:subject> 
+<dc:date>2023-12</dc:date> 
+<dc:created></dc:created> 
+<dc:modified></dc:modified> 
+<dc:rights>CC BY-NC 4.0 Attribution-NonCommercial 4.0 International</dc:rights> 
+<dc:identifier id='uuid' opf:scheme='UUID'></dc:identifier> 
+<dc:publisher></dc:publisher> 
+<dc:identifier id='bookid'>978-987-8262-33-8</dc:identifier> 
+<dc:identifier id='bookid' opf:scheme='URI'>https://edunpaz.unpaz.edu.ar/OMP/index.php/edunpaz/catalog/book/108</dc:identifier> 
+<dc:description>Resumen en idioma principal</dc:description> 
+<dc:relation>Morral de apuntes</dc:relation> 
+<dc:contributor opf:role='edt'>Desconocida</dc:contributor> 
+<dc:contributor opf:role='trl'>Nombre y Apellido del traductor</dc:contributor> 
+<dc:contributor opf:role='ill'>Nombre y Apellido del ilustrador</dc:contributor> 
+<dc:format>EPUB</dc:format> 
+<meta content='cover-image' name='cover' /> 
+</metadata>
+ 
+<manifest> 
+<item href='epub-CHARLAUNPaz.ncx' id='ncx' media-type='application/x-dtbncx+xml'></item> 
+<item href='epub-CHARLAUNPaz.css' id='stylesheet' media-type='text/css'></item> 
+<item href='epub-CHARLAUNPaz.html' id='file1' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch1.html' id='file2' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch2.html' id='file3' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch3.html' id='file4' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch4.html' id='file5' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch5.html' id='file6' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch6.html' id='file7' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch7.html' id='file8' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazli1.html' id='file9' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazli2.html' id='file10' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazli3.html' id='file11' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch8.html' id='file12' media-type='application/xhtml+xml'></item> 
+<item href='epub-CHARLAUNPazch9.html' id='file13' media-type='application/xhtml+xml'></item> 
+  
+<item href='./media/cover.png' id='cover-image' media-type='image/png'></item>
+<item href='./files/blitz-lite.css' id='filesblitz-lite_css' media-type='text/css'></item>
+<item href='./media/imagen1.jpg' id='mediaimagen1_jpg' media-type='image/jpeg'></item>
+</manifest> 
+   
+<spine toc='ncx'> 
+<itemref idref='file1'></itemref> 
+<itemref idref='file2'></itemref> 
+<itemref idref='file3'></itemref> 
+<itemref idref='file4'></itemref> 
+<itemref idref='file5'></itemref> 
+<itemref idref='file6'></itemref> 
+<itemref idref='file7'></itemref> 
+<itemref idref='file8'></itemref> 
+<itemref idref='file9'></itemref> 
+<itemref idref='file10'></itemref> 
+<itemref idref='file11'></itemref> 
+<itemref idref='file12'></itemref> 
+<itemref idref='file13'></itemref> 
+  
+ 
+</spine> 
+</package>
