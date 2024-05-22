@@ -1,14 +1,14 @@
 % se define una variable condicional para cada formato de salida
 \newif\ifPDF%
 \newif\ifBLACKPDF%
-\newif\ifEPUB%
 \newif\ifHTML%
+\newif\ifEPUB%
 \newif\ifODT%
 
 %\PDFtrue
 %\BLACKPDFtrue
-%\EPUBtrue
 \HTMLtrue
+%\EPUBtrue
 %\ODTtrue
 
 % agregamos las referencias
@@ -114,15 +114,33 @@ Apostamos a que nuestros estudiantes y lectores continúen, a través de sus pro
 	\item tercer item.
 \end{enumerate}
 
-Las tensiones que provoca esta irrupción se reflejan en nuestra literatura: los textos se posicionan, polemizan, reflexionan y, en líneas generales, se hacen partícipes en el terreno de las representaciones de las disputas sociales, políticas e ideológicas de la época. En esa segunda mitad del siglo~XX, en relación directa con la aparición de este nuevo movimiento, se producen en nuestro país constantes sucesos de violencia: el bombardeo a Plaza de Mayo de 1955 y las dictaduras cívico-militares de 1955 y 1976 son los ejemplos más evidentes. La tradición literaria nacional no permanece ajena a esa violencia, ya sea para reproducirla en el plano simbólico o para denunciarla y luchar contra ella. Ejemplo de lista itemizada:
-
-\begin{itemize}
-	\item primer item;
-	\item segundo item;
-	\item tercer item.
-\end{itemize}
+Las tensiones que provoca esta irrupción se reflejan en nuestra literatura: los textos se posicionan, polemizan, reflexionan y, en líneas generales, se hacen partícipes en el terreno de las representaciones de las disputas sociales, políticas e ideológicas de la época. En esa segunda mitad del siglo~XX, en relación directa con la aparición de este nuevo movimiento, se producen en nuestro país constantes sucesos de violencia: el bombardeo a Plaza de Mayo de 1955 y las dictaduras cívico-militares de 1955 y 1976 son los ejemplos más evidentes. La tradición literaria nacional no permanece ajena a esa violencia, ya sea para reproducirla en el plano simbólico o para denunciarla y luchar contra ella
 
 Para comprender en forma precisa el vínculo entre literatura y política en ese período, o bien el vínculo entre literatura y violencia política, hay que ir, sin embargo, más atrás en el tiempo, en búsqueda de la fundación de nuestra tradición literaria nacional, pues desde sus inicios nuestra tradición literaria se constituye en derredor de una perspectiva fuertemente despreciativa y desdeñosa de lo popular. La irrupción del peronismo viene entonces a dar nuevos bríos y reconfigurar esa relación agresiva que nuestro mundo intelectual nacional había planteado, en realidad, mucho tiempo antes.
+
+\ifPDF
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=\linewidth]{./media/imagen1.jpg}
+\caption{Este es el epígrafe de la figura a color.}
+\end{figure}
+	\else
+	\ifBLACKPDF
+	\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=\linewidth]{./media/bn-imagen1.png}
+	\caption{Este es el epígrafe de la figura en escala de gris.}
+	\end{figure}
+		\else
+		\ifHTML
+		\begin{figure}
+		\centering
+		\includegraphics[width=\linewidth]{./media/imagen1.jpg}
+		\caption{Este es el epígrafe de la figura a color.}
+		\end{figure}
+		\fi
+	\fi
+\fi
 
 Este libro elabora un recorrido a través de varias series de textos, todos ellos pertenecientes a nuestra literatura nacional. En su mayor parte, fueron escritos y publicados durante el siglo~XX, aunque los dos primeros son del siglo~XIX y los dos últimos del siglo~XXI. En la medida en que este recorrido es el que realizamos en el aula cuando dictamos la materia, constituye una introducción y puede ser, por lo tanto, ampliado, desarrollado y enriquecido.
 

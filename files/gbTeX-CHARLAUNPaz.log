@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  22 MAY 2024 12:33
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  22 MAY 2024 16:24
  restricted system commands enabled.
 **pdf-CHARLAUNPaz.tex
 (./pdf-CHARLAUNPaz.tex
@@ -1841,18 +1841,13 @@ Package: glossary-tree 2023/09/29 v4.53 (NLCT)
 \glstreeindent=\skip121
 ))
 (./files/gbTeXglo-CHARLAUNPaz.tex)
-(/usr/share/texmf-dist/tex/latex/impnattypo/impnattypo.sty
-Package: impnattypo 2019/03/04 1.5 Typographic utilities inspired by the French
- Imprimerie Nationale
-Package: impnattypo 
+(/usr/share/texmf-dist/tex/latex/crop/crop.sty
+Package: crop 2017/11/19 1.10 crop marks (mf)
+\CROP@index=\count535
+\CROP@offset=\count536
+Package crop Info: Local config file crop.cfg used on input line 622.
 
-(/usr/share/texmf-dist/tex/lualatex/luacode/luacode.sty
-Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
-\luacode@lines=\toks68
-\luacode@table@soft=\catcodetable18
-)
-Inserting `homeoarchy' in `post_linebreak_filter'.
-Inserting `homoioteleuton' in `post_linebreak_filter'.)
+(/usr/share/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
 (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
@@ -1874,11 +1869,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count535
+\c@section@level=\count537
 )
 \@linkdim=\dimen352
-\Hy@linkcounter=\count536
-\Hy@pagecounter=\count537
+\Hy@linkcounter=\count538
+\Hy@pagecounter=\count539
 
 (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
@@ -1886,12 +1881,12 @@ File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count538
+\Hy@SavedSpaceFactor=\count540
 
 (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
+Package hyperref Info: Option `draft' set `true' on input line 4062.
 Package hyperref Info: Hyper figures OFF on input line 4179.
 Package hyperref Info: Link nesting OFF on input line 4184.
 Package hyperref Info: Hyper index ON on input line 4187.
@@ -1899,7 +1894,7 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count539
+\c@Hy@tempcnt=\count541
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen353
 
@@ -1910,14 +1905,14 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count540
+\Fld@menulength=\count542
 \Field@Width=\dimen354
 \Fld@charsize=\dimen355
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
 Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring ON on input line 6081.
+Package hyperref Info: Link coloring OFF on input line 6083.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
 
@@ -1925,9 +1920,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count541
-\c@Item=\count542
-\c@Hfootnote=\count543
+\Hy@abspage=\count543
+\c@Item=\count544
+\c@Hfootnote=\count545
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -1943,8 +1938,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count544
-\c@bookmark@seq@number=\count545
+\Fld@listcount=\count546
+\c@bookmark@seq@number=\count547
 
 (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -2253,12 +2248,17 @@ Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 32.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 32.
 ) (/usr/share/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
 Package: hyperxmp 2023/09/10 v5.12 Store hyperref metadata in XMP format
-\hyxmp@aep@toks=\toks69
+\hyxmp@aep@toks=\toks68
 
 (/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )
-\@hyxmp@count=\count546
+(/usr/share/texmf-dist/tex/lualatex/luacode/luacode.sty
+Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
+\luacode@lines=\toks69
+\luacode@table@soft=\catcodetable18
+)
+\@hyxmp@count=\count548
 
 (/usr/share/texmf-dist/tex/latex/oberdiek/ifdraft.sty
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
@@ -2464,16 +2464,16 @@ Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `french'. on input line 632.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count547
+\scratchcounter=\count549
 \scratchdimen=\dimen356
 \scratchbox=\box134
-\nofMPsegments=\count548
-\nofMParguments=\count549
+\nofMPsegments=\count550
+\nofMParguments=\count551
 \everyMPshowfont=\toks70
-\MPscratchCnt=\count550
+\MPscratchCnt=\count552
 \MPscratchDim=\dimen357
-\MPnumerator=\count551
-\makeMPintoPDFobject=\count552
+\MPnumerator=\count553
+\makeMPintoPDFobject=\count554
 \everyMPtoPDFconversion=\toks71
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -2603,16 +2603,19 @@ Package biblatex Info: ... file 'pdf-CHARLAUNPaz.bbl' found.
 (./pdf-CHARLAUNPaz.bbl)
 Package biblatex Info: Reference section=0 on input line 632.
 Package biblatex Info: Reference segment=0 on input line 632.
-Package hyperref Info: Link coloring ON on input line 632.
- (./pdf-CHARLAUNPaz.out) (./pdf-CHARLAUNPaz.out)
-\@outlinefile=\write9
-
-\openout9 = pdf-CHARLAUNPaz.out
-
-(./files/inicio-frontmatter.tex [1
+Package crop Info: requested driver: `' on input line 632.
+Package crop Info: detected driver: `luatex' on input line 632.
+Package crop Info: using `luatex' graphics driver on input line 632.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Package hyperref Warning: Draft mode on.
+
+Package hyperref Info: Link coloring OFF on input line 632.
+(./files/inicio-frontmatter.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex
+.map}
+
+
+] [2]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 20.39026pt on input line 19.
  [3] [4]
@@ -2622,13 +2625,13 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 14.15991pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 39.
-<./media/unpaz_logo.png, id=125, 96.36pt x 24.3309pt>
+<./media/unpaz_logo.png, id=20, 96.36pt x 24.3309pt>
 File: ./media/unpaz_logo.png Graphic file (type png)
 <use ./media/unpaz_logo.png>
 Package luatex.def Info: ./media/unpaz_logo.png  used on input line 46.
 (luatex.def)             Requested size: 113.81102pt x 28.73729pt.
  [5<./media/unpaz_logo.png>]
-<./media/logo-GNU.png, id=132, 1027.84pt x 1004.75375pt>
+<./media/logo-GNU.png, id=25, 1027.84pt x 1004.75375pt>
 File: ./media/logo-GNU.png Graphic file (type png)
 <use ./media/logo-GNU.png>
 Package luatex.def Info: ./media/logo-GNU.png  used on input line 55.
@@ -2664,9 +2667,9 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 10.61993pt on input line 7.
 )
-\tf@toc=\write10
+\tf@toc=\write9
 
-\openout10 = pdf-CHARLAUNPaz.toc
+\openout9 = pdf-CHARLAUNPaz.toc
 LaTeX Info: Redefining \. on input line 659.
 LaTeX Info: Redefining \% on input line 659.
 LaTeX Info: Redefining \. on input line 659.
@@ -2698,154 +2701,161 @@ LaTeX Info: Redefining \% on input line 701.
 LaTeX Info: Redefining \. on input line 701.
 LaTeX Info: Redefining \% on input line 701.
  [13]
-LaTeX Info: Redefining \. on input line 715.
-LaTeX Info: Redefining \% on input line 715.
+<./media/bn-imagen1.png, id=54, 229.5777pt x 125.9907pt>
+File: ./media/bn-imagen1.png Graphic file (type png)
+<use ./media/bn-imagen1.png>
+Package luatex.def Info: ./media/bn-imagen1.png  used on input line 714.
+(luatex.def)             Requested size: 312.9803pt x 171.77187pt.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 10.61993pt on input line 715.
+LaTeX Info: Redefining \. on input line 731.
+LaTeX Info: Redefining \% on input line 731.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 715.
-LaTeX Info: Redefining \. on input line 715.
-LaTeX Info: Redefining \% on input line 715.
- [14]
-LaTeX Info: Redefining \. on input line 723.
-LaTeX Info: Redefining \% on input line 723.
-LaTeX Info: Redefining \. on input line 723.
-LaTeX Info: Redefining \% on input line 723.
+(Font)              scaled to size 9.69757pt on input line 731.
+LaTeX Info: Redefining \. on input line 731.
+LaTeX Info: Redefining \% on input line 731.
+ [14<./media/bn-imagen1.png>]
+LaTeX Info: Redefining \. on input line 739.
+LaTeX Info: Redefining \% on input line 739.
+LaTeX Info: Redefining \. on input line 739.
+LaTeX Info: Redefining \% on input line 739.
  [15]
-LaTeX Info: Redefining \. on input line 726.
-LaTeX Info: Redefining \% on input line 726.
-LaTeX Info: Redefining \. on input line 726.
-LaTeX Info: Redefining \% on input line 726.
+LaTeX Info: Redefining \. on input line 744.
+LaTeX Info: Redefining \% on input line 744.
+LaTeX Info: Redefining \. on input line 744.
+LaTeX Info: Redefining \% on input line 744.
  [16]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 729.
+Package biblatex Info: Resetting trackers on input line 747.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 729.
+(Font)              scaled to size 16.99188pt on input line 747.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 741.
+(Font)              scaled to size 11.63708pt on input line 759.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 743.
-LaTeX Info: Redefining \. on input line 745.
-LaTeX Info: Redefining \% on input line 745.
-LaTeX Info: Redefining \. on input line 745.
-LaTeX Info: Redefining \% on input line 745.
+(Font)              scaled to size 6.86723pt on input line 761.
+LaTeX Info: Redefining \. on input line 763.
+LaTeX Info: Redefining \% on input line 763.
+LaTeX Info: Redefining \. on input line 763.
+LaTeX Info: Redefining \% on input line 763.
 [1
 
 
 ]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/it' will be
-(Font)              scaled to size 11.63708pt on input line 745.
-LaTeX Info: Redefining \. on input line 761.
-LaTeX Info: Redefining \% on input line 761.
-LaTeX Info: Redefining \. on input line 761.
-LaTeX Info: Redefining \% on input line 761.
+(Font)              scaled to size 11.63708pt on input line 763.
+LaTeX Info: Redefining \. on input line 779.
+LaTeX Info: Redefining \% on input line 779.
+LaTeX Info: Redefining \. on input line 779.
+LaTeX Info: Redefining \% on input line 779.
  [2]
-LaTeX Info: Redefining \. on input line 768.
-LaTeX Info: Redefining \% on input line 768.
-LaTeX Info: Redefining \. on input line 768.
-LaTeX Info: Redefining \% on input line 768.
+LaTeX Info: Redefining \. on input line 786.
+LaTeX Info: Redefining \% on input line 786.
+LaTeX Info: Redefining \. on input line 786.
+LaTeX Info: Redefining \% on input line 786.
  [3] [4
 
 ]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 768.
-LaTeX Info: Redefining \. on input line 783.
-LaTeX Info: Redefining \% on input line 783.
-LaTeX Info: Redefining \. on input line 783.
-LaTeX Info: Redefining \% on input line 783.
+Package biblatex Info: Resetting trackers on input line 786.
+LaTeX Info: Redefining \. on input line 801.
+LaTeX Info: Redefining \% on input line 801.
+LaTeX Info: Redefining \. on input line 801.
+LaTeX Info: Redefining \% on input line 801.
 [5]
-LaTeX Info: Redefining \. on input line 787.
-LaTeX Info: Redefining \% on input line 787.
-LaTeX Info: Redefining \. on input line 787.
-LaTeX Info: Redefining \% on input line 787.
+LaTeX Info: Redefining \. on input line 805.
+LaTeX Info: Redefining \% on input line 805.
+LaTeX Info: Redefining \. on input line 805.
+LaTeX Info: Redefining \% on input line 805.
  [6]
 Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 787.
-LaTeX Info: Redefining \. on input line 800.
-LaTeX Info: Redefining \% on input line 800.
-LaTeX Info: Redefining \. on input line 800.
-LaTeX Info: Redefining \% on input line 800.
+Package biblatex Info: Resetting trackers on input line 805.
+LaTeX Info: Redefining \. on input line 818.
+LaTeX Info: Redefining \% on input line 818.
+LaTeX Info: Redefining \. on input line 818.
+LaTeX Info: Redefining \% on input line 818.
 [7
 
 ]
-LaTeX Info: Redefining \. on input line 804.
-LaTeX Info: Redefining \% on input line 804.
-LaTeX Info: Redefining \. on input line 804.
-LaTeX Info: Redefining \% on input line 804.
+LaTeX Info: Redefining \. on input line 822.
+LaTeX Info: Redefining \% on input line 822.
+LaTeX Info: Redefining \. on input line 822.
+LaTeX Info: Redefining \% on input line 822.
  [8]
 Capítulo 4.
-Package biblatex Info: Resetting trackers on input line 804.
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
+Package biblatex Info: Resetting trackers on input line 822.
+LaTeX Info: Redefining \. on input line 837.
+LaTeX Info: Redefining \% on input line 837.
+LaTeX Info: Redefining \. on input line 837.
+LaTeX Info: Redefining \% on input line 837.
 [9
 
 ]
-LaTeX Info: Redefining \. on input line 831.
-LaTeX Info: Redefining \% on input line 831.
-LaTeX Info: Redefining \. on input line 831.
-LaTeX Info: Redefining \% on input line 831.
+LaTeX Info: Redefining \. on input line 849.
+LaTeX Info: Redefining \% on input line 849.
+LaTeX Info: Redefining \. on input line 849.
+LaTeX Info: Redefining \% on input line 849.
  [10]
-LaTeX Info: Redefining \. on input line 902.
-LaTeX Info: Redefining \% on input line 902.
-LaTeX Info: Redefining \. on input line 902.
-LaTeX Info: Redefining \% on input line 902.
+LaTeX Info: Redefining \. on input line 920.
+LaTeX Info: Redefining \% on input line 920.
+LaTeX Info: Redefining \. on input line 920.
+LaTeX Info: Redefining \% on input line 920.
  [11] [12
 
 ]
 Using TeX to sort glossary entries---this may take a while
-Package biblatex Info: Resetting trackers on input line 905.
+Package biblatex Info: Resetting trackers on input line 932.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 905.
+(Font)              scaled to size 11.79993pt on input line 932.
 Using TeX to sort glossary entries---this may take a while
-LaTeX Info: Redefining \. on input line 906.
-LaTeX Info: Redefining \% on input line 906.
-LaTeX Info: Redefining \. on input line 906.
-LaTeX Info: Redefining \% on input line 906.
+LaTeX Info: Redefining \. on input line 933.
+LaTeX Info: Redefining \% on input line 933.
+LaTeX Info: Redefining \. on input line 933.
+LaTeX Info: Redefining \% on input line 933.
 [13
 
 
 ] [14
 
 ]
-Package biblatex Info: Resetting trackers on input line 906.
-LaTeX Info: Redefining \. on input line 907.
-LaTeX Info: Redefining \% on input line 907.
-LaTeX Info: Redefining \. on input line 907.
-LaTeX Info: Redefining \% on input line 907.
+Package biblatex Info: Resetting trackers on input line 933.
+LaTeX Info: Redefining \. on input line 934.
+LaTeX Info: Redefining \% on input line 934.
+LaTeX Info: Redefining \. on input line 934.
+LaTeX Info: Redefining \% on input line 934.
  [15
 
 ] [16
 
 ]
-Package biblatex Info: Resetting trackers on input line 907.
+Package biblatex Info: Resetting trackers on input line 934.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 907.
+(Font)              scaled to size 10.61993pt on input line 934.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.07996pt on input line 907.
-LaTeX Info: Redefining \. on input line 908.
-LaTeX Info: Redefining \% on input line 908.
-LaTeX Info: Redefining \. on input line 908.
-LaTeX Info: Redefining \% on input line 908.
+(Font)              scaled to size 7.07996pt on input line 934.
+LaTeX Info: Redefining \. on input line 935.
+LaTeX Info: Redefining \% on input line 935.
+LaTeX Info: Redefining \. on input line 935.
+LaTeX Info: Redefining \% on input line 935.
  [17] [18
 
 ] (./names.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 909.
-LaTeX Info: Redefining \% on input line 909.
-LaTeX Info: Redefining \. on input line 909.
-LaTeX Info: Redefining \% on input line 909.
+LaTeX Info: Redefining \. on input line 936.
+LaTeX Info: Redefining \% on input line 936.
+LaTeX Info: Redefining \. on input line 936.
+LaTeX Info: Redefining \% on input line 936.
  [19
 
 ] [20
 
 ] (./concepto.ind)
 (./onomastico.ind)
-Package biblatex Info: Resetting trackers on input line 957.
-LaTeX Info: Redefining \. on input line 964.
-LaTeX Info: Redefining \% on input line 964.
-LaTeX Info: Redefining \. on input line 964.
-LaTeX Info: Redefining \% on input line 964.
+Package biblatex Info: Resetting trackers on input line 975.
+LaTeX Info: Redefining \. on input line 987.
+LaTeX Info: Redefining \% on input line 987.
+LaTeX Info: Redefining \. on input line 987.
+LaTeX Info: Redefining \% on input line 987.
  [21
 
 
@@ -2877,36 +2887,35 @@ LaTeX Info: Redefining \% on input line 14.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `pdf-CHARLAUNPaz.out' has not changed.
-(rerunfilecheck)             Checksum: C47E69FEAB9A54C03D373F9A5D349397;5260.
 Package logreq Info: Writing requests to 'pdf-CHARLAUNPaz.run.xml'.
 
 \openout1 = pdf-CHARLAUNPaz.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 53407 strings out of 476447
- 477247,2373549 words of node,token memory allocated
- 392602 words of node memory still in use:
-   879 hlist, 2 vlist, 543 rule, 6 ins, 3897 disc, 366 local_par, 9 math, 6650 g
-lue, 2574 kern, 856 penalty, 126 margin_kern, 34228 glyph, 10420 attribute, 883 
-glue_spec, 1490 attribute_list, 54 write, 2 pdf_literal, 109 pdf_start_link, 111
- pdf_end_link, 9 pdf_dest, 58 pdf_action, 572 pdf_colorstack, 4 pdf_setmatrix, 4
- pdf_save, 4 pdf_restore nodes
-   avail lists: 1:7,2:301,3:87,4:20,5:95,6:2,7:1021,8:54,9:72,10:15,11:135
- 74026 multiletter control sequences out of 65536+600000
- 74 fonts using 13793039 bytes
- 132i,7n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 53380 strings out of 476447
+ 745685,2373549 words of node,token memory allocated
+ 630121 words of node memory still in use:
+   5814 hlist, 80 vlist, 1915 rule, 6 ins, 4659 disc, 742 local_par, 9 math, 120
+79 glue, 5942 kern, 1223 penalty, 235 margin_kern, 44241 glyph, 29068 attribute,
+ 1479 glue_spec, 4154 attribute_list, 54 write, 340 pdf_colorstack, 6 pdf_setmat
+rix, 6 pdf_save, 6 pdf_restore nodes
+   avail lists: 1:7,2:220,3:30,4:20,5:113,6:10,7:904,8:54,9:210,10:15,11:108
+ 74082 multiletter control sequences out of 65536+600000
+ 75 fonts using 14185367 bytes
+ 132i,10n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBoldItal
-ic.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiB
-old.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
-Serif-Italic.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansConde
-nsed-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/L
-ibertinusSerif-Regular.otf>
-Output written on pdf-CHARLAUNPaz.pdf (38 pages, 231458 bytes).
+ic.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusS
+erif-Bold.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
+d-SemiBold.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-fonts/Lib
+ertinusSerif-Italic.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSa
+nsCondensed-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-
+fonts/LibertinusSerif-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsf
+onts/latxfont/lcircle1.pfb>
+Output written on pdf-CHARLAUNPaz.pdf (38 pages, 565707 bytes).
 
-PDF statistics: 424 PDF objects out of 1000 (max. 8388607)
- 273 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 131072)
- 221 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 178 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 21 words of extra memory for PDF output out of 10000 (max. 100000000)
 

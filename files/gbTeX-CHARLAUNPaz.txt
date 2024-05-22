@@ -1,11 +1,11 @@
 File: pdf-CHARLAUNPaz.tex
 Encoding: utf8
-Sum count: 3768
-Words in text: 3605
+Sum count: 3787
+Words in text: 3595
 Words in headers: 108
-Words outside text (captions, etc.): 55
+Words outside text (captions, etc.): 84
 Number of headers: 24
-Number of floats/tables/figures: 0
+Number of floats/tables/figures: 3
 Number of math inlines: 0
 Number of math displayed: 0
 Subcounts:
@@ -14,7 +14,7 @@ Subcounts:
   19+1+0 (1/0/0/0) Chapter: Legales
   166+1+0 (1/0/0/0) Chapter: Agradecimientos
   133+1+0 (1/0/0/0) Chapter: Presentación
-  1290+1+0 (1/0/0/0) Chapter: Introducción
+  1280+1+29 (1/3/0/0) Chapter: Introducción
   208+1+0 (1/0/0/0) Chapter: Fundaciones
   51+5+13 (1/0/0/0) Section: \enquote{El Matadero} de Esteban Echeverría
   42+7+0 (1/0/0/0) Section: La otra fundación: \emph{El gaucho Martín Fierro}
