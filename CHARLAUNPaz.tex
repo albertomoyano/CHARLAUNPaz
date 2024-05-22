@@ -7,9 +7,9 @@
 
 %\PDFtrue
 %\BLACKPDFtrue
-\HTMLtrue
+%\HTMLtrue
 %\EPUBtrue
-%\ODTtrue
+\ODTtrue
 
 % agregamos las referencias
 \addbibresource{./files/gbTeXbib-CHARLAUNPaz.bib}
@@ -29,7 +29,8 @@
 	\usepackage{hyperxmp}
 		\else
 		\ifEPUB
-
+		\usepackage[hyperindex=true,colorlinks]{hyperref}
+		\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
 			\else
 			\ifHTML
 			\usepackage{hyperref}
@@ -38,8 +39,9 @@
 			\date{\today}
 				\else
 				\ifODT
-				\usepackage[unicode,hyperindex=true]{hyperref}
-				\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
+				\usepackage[draft]{hyperref}
+%				se deshabilitan en gbTeXpublisher los metadatos para word
+%				\input{./files/gbTeXmeta-CHARLAUNPaz.tex}
 				\fi
 			\fi
 		\fi
@@ -138,6 +140,22 @@ Para comprender en forma precisa el vínculo entre literatura y política en ese
 		\includegraphics[width=\linewidth]{./media/imagen1.jpg}
 		\caption{Este es el epígrafe de la figura a color.}
 		\end{figure}
+			\else
+			\ifEPUB
+			\begin{figure}
+			\centering
+			\includegraphics[width=\linewidth]{./media/imagen1.jpg}
+			\caption{Este es el epígrafe de la figura a color.}
+			\end{figure}
+				\else
+				\ifODT
+				\begin{figure}
+				\centering
+				\includegraphics[width=\linewidth]{./media/image14.jpeg}
+				\caption{Este es el epígrafe de la figura a color.}
+				\end{figure}
+				\fi
+			\fi
 		\fi
 	\fi
 \fi
