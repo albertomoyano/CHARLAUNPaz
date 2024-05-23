@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  22 MAY 2024 16:24
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  23 MAY 2024 10:52
  restricted system commands enabled.
 **pdf-CHARLAUNPaz.tex
 (./pdf-CHARLAUNPaz.tex
@@ -2273,31 +2273,31 @@ LaTeX Info: Redefining \% on input line 14.
 )
 \openout1 = pdf-CHARLAUNPaz.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 632.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 634.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
-32.
+34.
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 632.
-LaTeX Font Info:    ... okay on input line 632.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 634.
+LaTeX Font Info:    ... okay on input line 634.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -2335,90 +2335,90 @@ LaTeX Font Info:    ... okay on input line 632.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 632.
-LaTeX Info: Redefining \% on input line 632.
-LaTeX Info: Redefining \up on input line 632.
+LaTeX Info: Redefining \. on input line 634.
+LaTeX Info: Redefining \% on input line 634.
+LaTeX Info: Redefining \up on input line 634.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 632.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 632.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 632.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 632.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 632.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 632.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 632.
-LaTeX Font Info:    Redeclaring math accent \check on input line 632.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 632.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 632.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 632.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 632.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 632.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 634.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 634.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 634.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 634.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 634.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 634.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 634.
+LaTeX Font Info:    Redeclaring math accent \check on input line 634.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 634.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 634.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 634.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 634.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 634.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 632.
+(Font)              `operators' in the math version `normal' on input line 634.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LibertinusSerif(0)/m/n on input line
- 632.
+ 634.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 632.
+(Font)              `operators' in the math version `bold' on input line 634.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/m/n on input lin
-e 632.
+e 634.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LibertinusSerif(0)/m/n --> TU/LibertinusSerif(0)/m/n
- on input line 632.
+ on input line 634.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(0)/m/it on input li
-ne 632.
+ne 634.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
-e 632.
+e 634.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/IBMPlexSansCondensed(0)/m/n on inpu
-t line 632.
+t line 634.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/IBMPlexMono.otf(0)/m/n on input lin
-e 632.
+e 634.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LibertinusSerif(0)/m/n --> TU/LibertinusSerif(0)/b/n
- on input line 632.
+ on input line 634.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LibertinusSerif(0)/b/it on input l
-ine 632.
+ine 634.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/IBMPlexSansCondensed(0)/b/n on inp
-ut line 632.
+ut line 634.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/IBMPlexMono.otf(0)/b/n on input lin
-e 632.
-LaTeX Info: Redefining \microtypecontext on input line 632.
-Package microtype Info: Applying patch `item' on input line 632.
-Package microtype Info: Applying patch `toc' on input line 632.
-Package microtype Info: Applying patch `eqnum' on input line 632.
-Package microtype Info: Applying patch `footnote' on input line 632.
-Package microtype Info: Applying patch `verbatim' on input line 632.
+e 634.
+LaTeX Info: Redefining \microtypecontext on input line 634.
+Package microtype Info: Applying patch `item' on input line 634.
+Package microtype Info: Applying patch `toc' on input line 634.
+Package microtype Info: Applying patch `eqnum' on input line 634.
+Package microtype Info: Applying patch `footnote' on input line 634.
+Package microtype Info: Applying patch `verbatim' on input line 634.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 632.
+LaTeX Info: Redefining \showhyphens on input line 634.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -2433,7 +2433,7 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 632.
+or `spanish'. on input line 634.
 
 (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-ger
 man.trsl
@@ -2441,7 +2441,7 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 632.
+or `german'. on input line 634.
 
 (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-eng
 lish.trsl
@@ -2449,11 +2449,11 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 632.
+or `english'. on input line 634.
 Package translations Info: no dictionary file `translations-basic-dictionary-it
-alian.trsl' found. on input line 632.
+alian.trsl' found. on input line 634.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 632.
+rtuges.trsl' found. on input line 634.
 
 (/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-fre
 nch.trsl
@@ -2461,7 +2461,7 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 632.
+or `french'. on input line 634.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count549
@@ -2601,16 +2601,16 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-CHARLAUNPaz.bbl' found.
 
 (./pdf-CHARLAUNPaz.bbl)
-Package biblatex Info: Reference section=0 on input line 632.
-Package biblatex Info: Reference segment=0 on input line 632.
-Package crop Info: requested driver: `' on input line 632.
-Package crop Info: detected driver: `luatex' on input line 632.
-Package crop Info: using `luatex' graphics driver on input line 632.
+Package biblatex Info: Reference section=0 on input line 634.
+Package biblatex Info: Reference segment=0 on input line 634.
+Package crop Info: requested driver: `' on input line 634.
+Package crop Info: detected driver: `luatex' on input line 634.
+Package crop Info: using `luatex' graphics driver on input line 634.
 
 
 Package hyperref Warning: Draft mode on.
 
-Package hyperref Info: Link coloring OFF on input line 632.
+Package hyperref Info: Link coloring OFF on input line 634.
 (./files/inicio-frontmatter.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex
 .map}
 
@@ -2645,15 +2645,15 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )) [6<./media/logo-GNU.png>]
-Package biblatex Info: Resetting trackers on input line 652.
+Package biblatex Info: Resetting trackers on input line 654.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 652.
+(Font)              scaled to size 14.12686pt on input line 654.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `IBMPlexSansCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 652.
+(Font)              scaled to size 16.95224pt on input line 654.
  (./pdf-CHARLAUNPaz.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
@@ -2670,192 +2670,192 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 \tf@toc=\write9
 
 \openout9 = pdf-CHARLAUNPaz.toc
-LaTeX Info: Redefining \. on input line 659.
-LaTeX Info: Redefining \% on input line 659.
-LaTeX Info: Redefining \. on input line 659.
-LaTeX Info: Redefining \% on input line 659.
+LaTeX Info: Redefining \. on input line 661.
+LaTeX Info: Redefining \% on input line 661.
+LaTeX Info: Redefining \. on input line 661.
+LaTeX Info: Redefining \% on input line 661.
  [7
 
 ] [8
 
 ]
-Package biblatex Info: Resetting trackers on input line 659.
-LaTeX Info: Redefining \. on input line 670.
-LaTeX Info: Redefining \% on input line 670.
-LaTeX Info: Redefining \. on input line 670.
-LaTeX Info: Redefining \% on input line 670.
+Package biblatex Info: Resetting trackers on input line 661.
+LaTeX Info: Redefining \. on input line 672.
+LaTeX Info: Redefining \% on input line 672.
+LaTeX Info: Redefining \. on input line 672.
+LaTeX Info: Redefining \% on input line 672.
  [9] [10
 
 ]
-Package biblatex Info: Resetting trackers on input line 670.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
+Package biblatex Info: Resetting trackers on input line 672.
+LaTeX Info: Redefining \. on input line 683.
+LaTeX Info: Redefining \% on input line 683.
+LaTeX Info: Redefining \. on input line 683.
+LaTeX Info: Redefining \% on input line 683.
  [11] [12
 
 ]
-Package biblatex Info: Resetting trackers on input line 681.
-LaTeX Info: Redefining \. on input line 701.
-LaTeX Info: Redefining \% on input line 701.
-LaTeX Info: Redefining \. on input line 701.
-LaTeX Info: Redefining \% on input line 701.
+Package biblatex Info: Resetting trackers on input line 683.
+LaTeX Info: Redefining \. on input line 703.
+LaTeX Info: Redefining \% on input line 703.
+LaTeX Info: Redefining \. on input line 703.
+LaTeX Info: Redefining \% on input line 703.
  [13]
 <./media/bn-imagen1.png, id=54, 229.5777pt x 125.9907pt>
 File: ./media/bn-imagen1.png Graphic file (type png)
 <use ./media/bn-imagen1.png>
-Package luatex.def Info: ./media/bn-imagen1.png  used on input line 714.
+Package luatex.def Info: ./media/bn-imagen1.png  used on input line 716.
 (luatex.def)             Requested size: 312.9803pt x 171.77187pt.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 715.
-LaTeX Info: Redefining \. on input line 731.
-LaTeX Info: Redefining \% on input line 731.
+(Font)              scaled to size 10.61993pt on input line 717.
+LaTeX Info: Redefining \. on input line 749.
+LaTeX Info: Redefining \% on input line 749.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 731.
-LaTeX Info: Redefining \. on input line 731.
-LaTeX Info: Redefining \% on input line 731.
+(Font)              scaled to size 9.69757pt on input line 749.
+LaTeX Info: Redefining \. on input line 749.
+LaTeX Info: Redefining \% on input line 749.
  [14<./media/bn-imagen1.png>]
-LaTeX Info: Redefining \. on input line 739.
-LaTeX Info: Redefining \% on input line 739.
-LaTeX Info: Redefining \. on input line 739.
-LaTeX Info: Redefining \% on input line 739.
+LaTeX Info: Redefining \. on input line 757.
+LaTeX Info: Redefining \% on input line 757.
+LaTeX Info: Redefining \. on input line 757.
+LaTeX Info: Redefining \% on input line 757.
  [15]
-LaTeX Info: Redefining \. on input line 744.
-LaTeX Info: Redefining \% on input line 744.
-LaTeX Info: Redefining \. on input line 744.
-LaTeX Info: Redefining \% on input line 744.
+LaTeX Info: Redefining \. on input line 762.
+LaTeX Info: Redefining \% on input line 762.
+LaTeX Info: Redefining \. on input line 762.
+LaTeX Info: Redefining \% on input line 762.
  [16]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 747.
+Package biblatex Info: Resetting trackers on input line 765.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 747.
+(Font)              scaled to size 16.99188pt on input line 765.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 759.
+(Font)              scaled to size 11.63708pt on input line 777.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 761.
-LaTeX Info: Redefining \. on input line 763.
-LaTeX Info: Redefining \% on input line 763.
-LaTeX Info: Redefining \. on input line 763.
-LaTeX Info: Redefining \% on input line 763.
+(Font)              scaled to size 6.86723pt on input line 779.
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
+LaTeX Info: Redefining \. on input line 781.
+LaTeX Info: Redefining \% on input line 781.
 [1
 
 
 ]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/it' will be
-(Font)              scaled to size 11.63708pt on input line 763.
-LaTeX Info: Redefining \. on input line 779.
-LaTeX Info: Redefining \% on input line 779.
-LaTeX Info: Redefining \. on input line 779.
-LaTeX Info: Redefining \% on input line 779.
+(Font)              scaled to size 11.63708pt on input line 781.
+LaTeX Info: Redefining \. on input line 796.
+LaTeX Info: Redefining \% on input line 796.
+LaTeX Info: Redefining \. on input line 796.
+LaTeX Info: Redefining \% on input line 796.
  [2]
-LaTeX Info: Redefining \. on input line 786.
-LaTeX Info: Redefining \% on input line 786.
-LaTeX Info: Redefining \. on input line 786.
-LaTeX Info: Redefining \% on input line 786.
+LaTeX Info: Redefining \. on input line 804.
+LaTeX Info: Redefining \% on input line 804.
+LaTeX Info: Redefining \. on input line 804.
+LaTeX Info: Redefining \% on input line 804.
  [3] [4
 
 ]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 786.
-LaTeX Info: Redefining \. on input line 801.
-LaTeX Info: Redefining \% on input line 801.
-LaTeX Info: Redefining \. on input line 801.
-LaTeX Info: Redefining \% on input line 801.
+Package biblatex Info: Resetting trackers on input line 804.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
 [5]
-LaTeX Info: Redefining \. on input line 805.
-LaTeX Info: Redefining \% on input line 805.
-LaTeX Info: Redefining \. on input line 805.
-LaTeX Info: Redefining \% on input line 805.
+LaTeX Info: Redefining \. on input line 823.
+LaTeX Info: Redefining \% on input line 823.
+LaTeX Info: Redefining \. on input line 823.
+LaTeX Info: Redefining \% on input line 823.
  [6]
 Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 805.
-LaTeX Info: Redefining \. on input line 818.
-LaTeX Info: Redefining \% on input line 818.
-LaTeX Info: Redefining \. on input line 818.
-LaTeX Info: Redefining \% on input line 818.
+Package biblatex Info: Resetting trackers on input line 823.
+LaTeX Info: Redefining \. on input line 836.
+LaTeX Info: Redefining \% on input line 836.
+LaTeX Info: Redefining \. on input line 836.
+LaTeX Info: Redefining \% on input line 836.
 [7
 
 ]
-LaTeX Info: Redefining \. on input line 822.
-LaTeX Info: Redefining \% on input line 822.
-LaTeX Info: Redefining \. on input line 822.
-LaTeX Info: Redefining \% on input line 822.
+LaTeX Info: Redefining \. on input line 840.
+LaTeX Info: Redefining \% on input line 840.
+LaTeX Info: Redefining \. on input line 840.
+LaTeX Info: Redefining \% on input line 840.
  [8]
 Capítulo 4.
-Package biblatex Info: Resetting trackers on input line 822.
-LaTeX Info: Redefining \. on input line 837.
-LaTeX Info: Redefining \% on input line 837.
-LaTeX Info: Redefining \. on input line 837.
-LaTeX Info: Redefining \% on input line 837.
+Package biblatex Info: Resetting trackers on input line 840.
+LaTeX Info: Redefining \. on input line 855.
+LaTeX Info: Redefining \% on input line 855.
+LaTeX Info: Redefining \. on input line 855.
+LaTeX Info: Redefining \% on input line 855.
 [9
 
 ]
-LaTeX Info: Redefining \. on input line 849.
-LaTeX Info: Redefining \% on input line 849.
-LaTeX Info: Redefining \. on input line 849.
-LaTeX Info: Redefining \% on input line 849.
+LaTeX Info: Redefining \. on input line 867.
+LaTeX Info: Redefining \% on input line 867.
+LaTeX Info: Redefining \. on input line 867.
+LaTeX Info: Redefining \% on input line 867.
  [10]
-LaTeX Info: Redefining \. on input line 920.
-LaTeX Info: Redefining \% on input line 920.
-LaTeX Info: Redefining \. on input line 920.
-LaTeX Info: Redefining \% on input line 920.
+LaTeX Info: Redefining \. on input line 938.
+LaTeX Info: Redefining \% on input line 938.
+LaTeX Info: Redefining \. on input line 938.
+LaTeX Info: Redefining \% on input line 938.
  [11] [12
 
 ]
 Using TeX to sort glossary entries---this may take a while
-Package biblatex Info: Resetting trackers on input line 932.
+Package biblatex Info: Resetting trackers on input line 950.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 932.
+(Font)              scaled to size 11.79993pt on input line 950.
 Using TeX to sort glossary entries---this may take a while
-LaTeX Info: Redefining \. on input line 933.
-LaTeX Info: Redefining \% on input line 933.
-LaTeX Info: Redefining \. on input line 933.
-LaTeX Info: Redefining \% on input line 933.
+LaTeX Info: Redefining \. on input line 951.
+LaTeX Info: Redefining \% on input line 951.
+LaTeX Info: Redefining \. on input line 951.
+LaTeX Info: Redefining \% on input line 951.
 [13
 
 
 ] [14
 
 ]
-Package biblatex Info: Resetting trackers on input line 933.
-LaTeX Info: Redefining \. on input line 934.
-LaTeX Info: Redefining \% on input line 934.
-LaTeX Info: Redefining \. on input line 934.
-LaTeX Info: Redefining \% on input line 934.
+Package biblatex Info: Resetting trackers on input line 951.
+LaTeX Info: Redefining \. on input line 952.
+LaTeX Info: Redefining \% on input line 952.
+LaTeX Info: Redefining \. on input line 952.
+LaTeX Info: Redefining \% on input line 952.
  [15
 
 ] [16
 
 ]
-Package biblatex Info: Resetting trackers on input line 934.
+Package biblatex Info: Resetting trackers on input line 952.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 934.
+(Font)              scaled to size 10.61993pt on input line 952.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.07996pt on input line 934.
-LaTeX Info: Redefining \. on input line 935.
-LaTeX Info: Redefining \% on input line 935.
-LaTeX Info: Redefining \. on input line 935.
-LaTeX Info: Redefining \% on input line 935.
+(Font)              scaled to size 7.07996pt on input line 952.
+LaTeX Info: Redefining \. on input line 953.
+LaTeX Info: Redefining \% on input line 953.
+LaTeX Info: Redefining \. on input line 953.
+LaTeX Info: Redefining \% on input line 953.
  [17] [18
 
 ] (./names.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 936.
-LaTeX Info: Redefining \% on input line 936.
-LaTeX Info: Redefining \. on input line 936.
-LaTeX Info: Redefining \% on input line 936.
+LaTeX Info: Redefining \. on input line 954.
+LaTeX Info: Redefining \% on input line 954.
+LaTeX Info: Redefining \. on input line 954.
+LaTeX Info: Redefining \% on input line 954.
  [19
 
 ] [20
 
 ] (./concepto.ind)
 (./onomastico.ind)
-Package biblatex Info: Resetting trackers on input line 975.
-LaTeX Info: Redefining \. on input line 987.
-LaTeX Info: Redefining \% on input line 987.
-LaTeX Info: Redefining \. on input line 987.
-LaTeX Info: Redefining \% on input line 987.
+Package biblatex Info: Resetting trackers on input line 993.
+LaTeX Info: Redefining \. on input line 1005.
+LaTeX Info: Redefining \% on input line 1005.
+LaTeX Info: Redefining \. on input line 1005.
+LaTeX Info: Redefining \% on input line 1005.
  [21
 
 
@@ -2894,13 +2894,13 @@ Package logreq Info: Writing requests to 'pdf-CHARLAUNPaz.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  53380 strings out of 476447
- 745685,2373549 words of node,token memory allocated
- 630121 words of node memory still in use:
-   5814 hlist, 80 vlist, 1915 rule, 6 ins, 4659 disc, 742 local_par, 9 math, 120
-79 glue, 5942 kern, 1223 penalty, 235 margin_kern, 44241 glyph, 29068 attribute,
- 1479 glue_spec, 4154 attribute_list, 54 write, 340 pdf_colorstack, 6 pdf_setmat
-rix, 6 pdf_save, 6 pdf_restore nodes
-   avail lists: 1:7,2:220,3:30,4:20,5:113,6:10,7:904,8:54,9:210,10:15,11:108
+ 745679,2373549 words of node,token memory allocated
+ 635638 words of node memory still in use:
+   5845 hlist, 80 vlist, 1922 rule, 8 ins, 4705 disc, 751 local_par, 11 math, 12
+174 glue, 5979 kern, 1240 penalty, 239 margin_kern, 44720 glyph, 29194 attribute
+, 1487 glue_spec, 4172 attribute_list, 51 write, 340 pdf_colorstack, 6 pdf_setma
+trix, 6 pdf_save, 6 pdf_restore nodes
+   avail lists: 1:8,2:220,3:30,4:20,5:113,6:10,7:904,8:54,9:210,10:15,11:108
  74082 multiletter control sequences out of 65536+600000
  75 fonts using 14185367 bytes
  132i,10n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2912,7 +2912,7 @@ ertinusSerif-Italic.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSa
 nsCondensed-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-
 fonts/LibertinusSerif-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsf
 onts/latxfont/lcircle1.pfb>
-Output written on pdf-CHARLAUNPaz.pdf (38 pages, 565707 bytes).
+Output written on pdf-CHARLAUNPaz.pdf (38 pages, 565910 bytes).
 
 PDF statistics: 178 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream

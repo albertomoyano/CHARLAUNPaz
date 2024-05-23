@@ -73,10 +73,11 @@ body {
   font-family: "Noto Serif", "DejaVu Serif", "Bitstream Vera Serif",
   "Lucida Bright", Georgia, serif;
   background: #FAF7F4 ;
-  color: black ; /* marrón oscuro*/
+  color: black ;
   margin:0em ;
   padding:0em ;
   font-size: 100% ;
+  line-height: 1.3 ;
 }
 
 div.book, h1, h2, h3, h4, h5, h6, span.paragraph, span.subparagraph
