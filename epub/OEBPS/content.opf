@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?> 
 <package unique-identifier='dcidid' version='2.0' xmlns='http://www.idpf.org/2007/opf'> 
 <metadata xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:opf='http://www.idpf.org/2007/opf'> 
-<dc:title>Literatura y Pensamiento: Caja de herramientas para el
-análisis literario</dc:title> 
+<dc:title>Literatura y Pensamiento: Caja de herramientas para el análisis literario</dc:title> 
+
 <dc:language>es-ES</dc:language> 
 <dc:identifier id='dcidid' opf:scheme='URI'>http://example.com/epub-CHARLAUNPaz</dc:identifier> 
 <dc:creator>Andrés Racket</dc:creator> 
-<dc:date>2024-05-22T17:53:00Z</dc:date>  
+<dc:date>2024-05-23T20:26:00Z</dc:date>  
 <dc:subject>clave1,clave2,clave3,clave4</dc:subject> 
 <dc:date>2023-12</dc:date> 
 <dc:created></dc:created> 
@@ -38,8 +38,7 @@ análisis literario</dc:title>
 <dc:contributor opf:role='ill'>Nombre y Apellido del ilustrador</dc:contributor> 
 <dc:format>EPUB</dc:format> 
 <meta content='cover-image' name='cover' /> 
-</metadata>
- 
+</metadata>   
 <manifest> 
 <item href='epub-CHARLAUNPaz.ncx' id='ncx' media-type='application/x-dtbncx+xml'></item> 
 <item href='epub-CHARLAUNPaz.css' id='stylesheet' media-type='text/css'></item> 

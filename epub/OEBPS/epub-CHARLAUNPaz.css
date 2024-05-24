@@ -1,14 +1,14 @@
  
 /* start css.sty */
-.ec-lmri-12{ font-style:italic;}
-.ec-lmri-12{ font-style:italic;}
-.ec-lmri-12{ font-style:italic;}
-.ec-lmri-12{ font-style:italic;}
-.ec-lmr-10x-x-109{font-size:90%;}
-.ec-lmbx-12{ font-weight: bold;}
-.ec-lmbx-12{ font-weight: bold;}
-.ec-lmbx-12{ font-weight: bold;}
-.ec-lmbx-12{ font-weight: bold;}
+.ec-lmri-10{ font-style:italic;}
+.ec-lmri-10{ font-style:italic;}
+.ec-lmri-10{ font-style:italic;}
+.ec-lmri-10{ font-style:italic;}
+.ec-lmr-9{font-size:90%;}
+.ec-lmssbx-10{ font-family: sans-serif; font-weight: bold;}
+.ec-lmssbx-10{ font-family: sans-serif; font-weight: bold;}
+.ec-lmssbx-10{ font-family: sans-serif; font-weight: bold;}
+.ec-lmssbx-10{ font-family: sans-serif; font-weight: bold;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
@@ -132,16 +132,11 @@ h1.partHead{text-align: center}
  .likesubsubsectionToc, .subsubsectionToc {margin-left:3em;}
 .paragraphToc, .likeparagraphToc {margin-left:4em;}
 .subparagraphToc, .likesubparagraphToc {margin-left:5em;}
-.poemtitle, likepoemtitle {margin-left:2em; margin-bottom:0.5em;}
-.skip-verseline {margin-top: 1em;}
-.skip-verseline, .verseline {white-space: nowrap;}
-.flagverse {float:right; font-size:85%; text-decoration:underline;}
-.verse p{margin-bottom:0;}
-.poemline {text-align:right; width:6em;}
-.booknumber{display:block;}
-div.abstract p {margin-left:5%; margin-right:5%;}
-div.abstract {width:100%;}
-.abstracttitle{text-align:center;margin-bottom:1em;}
+.small-caps{font-variant: small-caps;}
+dt.printshorthands{float:left; clear:left; margin-right:1em;}
+dd.thebibliography { text-indent: -2em; margin-left: 2em;}
+dd.thebibliography p:first-child{ text-indent: -2em; }
+dt.thebibliography{float:left; clear:left; margin-right:1em;}
 div.tabular, div.center div.tabular {text-align: center; margin-top:0.5em; margin-bottom:0.5em; }
 table.tabular td p{margin-top:0em;}
 table.tabular {margin-left: auto; margin-right: auto;}
@@ -164,12 +159,8 @@ table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
 .hline + .vspace:last-child{display:none;}
 .hline:first-child{border-bottom:1px solid black;border-top:none;}
 div.array {text-align:center;}
-div.verbatiminput {font-family: monospace,monospace; white-space: nowrap; }
-.small-caps{font-variant: small-caps;}
-dt.printshorthands{float:left; clear:left; margin-right:1em;}
-dd.thebibliography { text-indent: -2em; margin-left: 2em;}
-dd.thebibliography p:first-child{ text-indent: -2em; }
-dt.thebibliography{float:left; clear:left; margin-right:1em;}
+dl.enumerate {display:grid; grid-template-columns: 3ch 1fr; align-items: top; row-gap:1ch;}
+dd.enumerate {margin-left: 0;}
 .equation td{text-align:center; }
 .equation-star td{text-align:center; }
 table.equation-star { width:100%; }
