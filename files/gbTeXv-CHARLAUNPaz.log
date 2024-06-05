@@ -1,41 +1,6 @@
 ----------------
 From file DUMMY:
 pg 1: (./pdf-CHARLAUNPaz.tex
---------------------------------------------------------------------
-From file /usr/share/texmf-dist/tex/generic/babel-french/french.ldf:
-pg 1: Package babel Warning: No hyphenation patterns were preloaded for
-      (babel)                the language 'French' into the format.
-      (babel)                Please, configure your TeX system to add them and
-      (babel)                rebuild the format. Now I will use the patterns
-      (babel)                preloaded for \language=nohyphenation instead on input line 87.
---------------------------------------------------------------------------
-From file /usr/share/texmf-dist/tex/generic/babel-portuges/portuguese.ldf:
-pg 1: Package babel Warning: No hyphenation patterns were preloaded for
-      (babel)                the language 'Portuguese' into the format.
-      (babel)                Please, configure your TeX system to add them and
-      (babel)                rebuild the format. Now I will use the patterns
-      (babel)                preloaded for \language=nohyphenation instead on input line 53.
-----------------------------------------------------------------------
-From file /usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf:
-pg 1: Package babel Warning: No hyphenation patterns were preloaded for
-      (babel)                the language 'Italian' into the format.
-      (babel)                Please, configure your TeX system to add them and
-      (babel)                rebuild the format. Now I will use the patterns
-      (babel)                preloaded for \language=nohyphenation instead on input line 21.
----------------------------------------------------------------------
-From file /usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf:
-pg 1: Package babel Warning: No hyphenation patterns were preloaded for
-      (babel)                the language 'German (trad. orthography)' into the format.
-      (babel)                Please, configure your TeX system to add them and
-      (babel)                rebuild the format. Now I will use the patterns
-      (babel)                preloaded for \language=nohyphenation instead on input line 62.
-----------------------------------------------------------------------
-From file /usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf:
-pg 1: Package babel Warning: No hyphenation patterns were preloaded for
-      (babel)                the language 'Spanish' into the format.
-      (babel)                Please, configure your TeX system to add them and
-      (babel)                rebuild the format. Now I will use the patterns
-      (babel)                preloaded for \language=nohyphenation instead on input line 51.
 ------------------------------------------------------------------
 From file /usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty:
 pg 1: Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
@@ -58,7 +23,7 @@ pg 1: ! Package kvsetkeys Error: Undefined key `pdfsubtitle'.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfsubtitle' is `Hyp'.
 pg 1: The setting of the key is ignored because of the error.
 pg 1: Try typing  <return>  to proceed.
@@ -68,129 +33,143 @@ pg 1: ! Package kvsetkeys Error: Undefined key `pdfdate'.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfdate' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfmetadate'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfmetadate' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcopyright'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfcopyright' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdflicenseurl'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdflicenseurl' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcaptionwriter'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfcaptionwriter' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcontactcountry'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfcontactcountry' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfcontactemail'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfcontactemail' is `Hyp'.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdftype'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.34 }
+pg 1: The keyval family of the key `pdftype' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfpubtype'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfpubtype' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfvolumenum'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfvolumenum' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfpagerange'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfpagerange' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfbookedition'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfbookedition' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfisbn'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfisbn' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfpubstatus'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfpubstatus' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfmetalang'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfmetalang' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfurl'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfurl' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfrendition'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfrendition' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfx' is `Hyp'.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfsummary'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.34 }
+pg 1: The keyval family of the key `pdfsummary' is `Hyp'.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfformato'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.32 }
+      l.34 }
 pg 1: The keyval family of the key `pdfformato' is `Hyp'.
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
-      (hyperref)                setting the option has no effect on input line 32.
+      (hyperref)                setting the option has no effect on input line 34.
 ----------------
 From file DUMMY:
 pg 1: Package hyperref Warning: Draft mode on.

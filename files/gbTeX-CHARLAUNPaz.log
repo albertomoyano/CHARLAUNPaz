@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  24 MAY 2024 15:03
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.31)  5 JUN 2024 19:11
  restricted system commands enabled.
 **pdf-CHARLAUNPaz.tex
 (./pdf-CHARLAUNPaz.tex
@@ -95,33 +95,106 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@nohyphenation=\language3
 \l@vietnamese=\language4
 \l@hebrew=\language5
+\l@arabic=\language6
+\l@farsi=\language7
+\l@pinyin=\language8
+\l@belarusian=\language9
+\l@bulgarian=\language10
+\l@churchslavonic=\language11
+\l@mongolian=\language12
+\l@mongolianlmc=\language13
+\l@russian=\language14
+\l@serbian=\language15
+\l@serbianc=\language16
+\l@ukrainian=\language17
+\l@czech=\language18
+\l@slovak=\language19
+\l@ukenglish=\language20
+\l@usenglishmax=\language21
+\l@croatian=\language22
+\l@danish=\language23
+\l@dutch=\language24
+\l@estonian=\language25
+\l@finnish=\language26
+\l@schoolfinnish=\language27
+\l@friulan=\language28
+\l@hungarian=\language29
+\l@icelandic=\language30
+\l@irish=\language31
+\l@kurmanji=\language32
+\l@classiclatin=\language33
+\l@latin=\language34
+\l@liturgicallatin=\language35
+\l@latvian=\language36
+\l@lithuanian=\language37
+\l@macedonian=\language38
+\l@bokmal=\language39
+\l@nynorsk=\language40
+\l@occitan=\language41
+\l@piedmontese=\language42
+\l@romanian=\language43
+\l@romansh=\language44
+\l@slovenian=\language45
+\l@swedish=\language46
+\l@turkish=\language47
+\l@uppersorbian=\language48
+\l@welsh=\language49
+\l@basque=\language50
+\l@french=\language51
+\l@german-x-2024-02-28=\language52
+\l@ngerman-x-2024-02-28=\language53
+\l@german=\language54
+\l@ngerman=\language55
+\l@swissgerman=\language56
+\l@ancientgreek=\language57
+\l@ibycus=\language58
+\l@greek=\language59
+\l@monogreek=\language60
+\l@italian=\language61
+\l@afrikaans=\language62
+\l@armenian=\language63
+\l@coptic=\language64
+\l@esperanto=\language65
+\l@ethiopic=\language66
+\l@georgian=\language67
+\l@assamese=\language68
+\l@bengali=\language69
+\l@gujarati=\language70
+\l@hindi=\language71
+\l@kannada=\language72
+\l@malayalam=\language73
+\l@marathi=\language74
+\l@oriya=\language75
+\l@pali=\language76
+\l@panjabi=\language77
+\l@tamil=\language78
+\l@telugu=\language79
+\l@indonesian=\language80
+\l@interlingua=\language81
+\l@sanskrit=\language82
+\l@thai=\language83
+\l@turkmen=\language84
+\l@polish=\language85
+\l@portuguese=\language86
+\l@catalan=\language87
+\l@galician=\language88
+\l@spanish=\language89
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
 \babel@savecnt=\count198
 \U@D=\dimen148
-\l@unhyphenated=\language6
+\l@unhyphenated=\language90
 
 (/usr/share/texmf-dist/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
 )
 (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
 Language: french 2024-02-29 v3.5s French support from the babel system
-Package babel Info: Hyphen rules for 'french' set to \l@nohyphenation
-(babel)             (\language3). Reported on input line 87.
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'French' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=nohyphenation instead on input l
-ine 87.
-
-Package babel Info: Hyphen rules for 'acadian' set to \l@nohyphenation
-(babel)             (\language3). Reported on input line 91.
-Package babel Info: Hyphen rules for 'canadien' set to \l@nohyphenation
-(babel)             (\language3). Reported on input line 92.
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language51). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language51). Reported on input line 92.
 \FB@stdchar=\count199
 \FB@spacing=\attribute5
 \FB@addDPspace=\attribute6
@@ -148,49 +221,36 @@ Inserting `frenchb.french_punctuation' in `kerning'.
 \leftmarginFB=\dimen155
 \parindentFFN=\dimen156
 \FBfnindent=\dimen157
-(/usr/share/texmf-dist/tex/generic/hyphen/zerohyph.tex))
-(/usr/share/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
+
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.tex
+UTF-8 French hyphenation patterns
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex)
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-fr.tex)))
+ (/usr/share/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Portuguese' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=nohyphenation instead on input l
-ine 53.
-
-Package babel Info: Hyphen rules for 'portuges' set to \l@english
-(babel)             (\language0). Reported on input line 54.
 Package babel Info: Making " an active character on input line 143.
-) (/usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf
+
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pt.tex
+UTF-8 Portuguese hyphenation patterns
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex)))
+(/usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf
 Language: italian 2024/01/03 v.1.5.00 Italian support for the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Italian' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=nohyphenation instead on input l
-ine 21.
-
-Package babel Info: Hyphen rules for 'italian' set to \l@english
-(babel)             (\language0). Reported on input line 22.
 \it@lettering=\count272
 \it@doublequoteactive=\count273
 \it@ISOcompliance=\count274
-) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-it.tex
+UTF-8 Italian hyphenation patterns
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-it.tex)
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-it.tex)))
+ (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'british' set to \l@english
-(babel)             (\language0). Reported on input line 82.
-Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
-(babel)             (\language0). Reported on input line 83.
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@english
-(babel)             (\language0). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@english
-(babel)             (\language0). Reported on input line 108.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language20). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language20). Reported on input line 108.
 )
 (/usr/share/texmf-dist/tex/generic/babel-german/german.ldf
 Language: german 2024/01/19 v2.14 German support for babel (pre-1996 orthograph
@@ -200,33 +260,19 @@ y)
 Language: germanb 2024/01/19 v2.14 German support for babel (pre-1996 orthograp
 hy)
 
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'German (trad. orthography)' into the forma
-t.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=nohyphenation instead on input l
-ine 62.
-
-Package babel Info: Hyphen rules for 'german' set to \l@english
-(babel)             (\language0). Reported on input line 63.
-)) (/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-1901.tex
+UTF-8 German hyphenation patterns (traditional orthography)
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1901.tex
+German Hyphenation Patterns (Traditional Orthography) `dehypht-x' 2021-02-26 (W
+L))))) (/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Spanish' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=nohyphenation instead on input l
-ine 51.
-
-Package babel Info: Hyphen rules for 'spanish' set to \l@english
-(babel)             (\language0). Reported on input line 52.
 \es@quottoks=\toks20
 \es@quotdepth=\count275
-)) (/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-es.tex
+UTF-8 Spanish hyphenation patterns
+(/usr/share/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex))))
+(/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
 )
@@ -1282,7 +1328,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip83
 \blx@bcfin=\read4
 \blx@bcfout=\write4
-\blx@langwohyphens=\language7
+\blx@langwohyphens=\language91
 \c@mincomprange=\count402
 \c@maxcomprange=\count403
 \c@mincompwidth=\count404
@@ -1960,7 +2006,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfsubtitle' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -1975,7 +2021,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfdate' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -1990,7 +2036,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfmetadate' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2005,7 +2051,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfcopyright' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2020,7 +2066,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdflicenseurl' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2035,7 +2081,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfcaptionwriter' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2050,7 +2096,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfcontactcountry' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2065,9 +2111,24 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfcontactemail' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdftype'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 }
+    
+The keyval family of the key `pdftype' is `Hyp'.
 The setting of the key is ignored because of the error.
 
 Try typing  <return>  to proceed.
@@ -2080,7 +2141,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfpubtype' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2095,7 +2156,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfvolumenum' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2110,7 +2171,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfpagerange' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2125,7 +2186,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfbookedition' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2140,7 +2201,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfisbn' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2155,7 +2216,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfpubstatus' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2170,7 +2231,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfmetalang' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2185,7 +2246,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfurl' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2200,7 +2261,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfrendition' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2215,9 +2276,24 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfx' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdfsummary'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 }
+    
+The keyval family of the key `pdfsummary' is `Hyp'.
 The setting of the key is ignored because of the error.
 
 Try typing  <return>  to proceed.
@@ -2230,7 +2306,7 @@ See the kvsetkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 }
+l.34 }
     
 The keyval family of the key `pdfformato' is `Hyp'.
 The setting of the key is ignored because of the error.
@@ -2238,14 +2314,14 @@ The setting of the key is ignored because of the error.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Package hyperref Info: Option `unicode' set `true' on input line 32.
+Package hyperref Info: Option `unicode' set `true' on input line 34.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 32.
+(hyperref)                setting the option has no effect on input line 34.
 
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 32.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 34.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 32.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
 ) (/usr/share/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
 Package: hyperxmp 2023/09/10 v5.12 Store hyperref metadata in XMP format
 \hyxmp@aep@toks=\toks68
@@ -2893,15 +2969,15 @@ Package logreq Info: Writing requests to 'pdf-CHARLAUNPaz.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 53380 strings out of 476447
- 745679,2373549 words of node,token memory allocated
- 635638 words of node memory still in use:
-   5845 hlist, 80 vlist, 1922 rule, 8 ins, 4705 disc, 751 local_par, 11 math, 12
-174 glue, 5979 kern, 1240 penalty, 239 margin_kern, 44720 glyph, 29194 attribute
+ 53529 strings out of 476447
+ 745725,2373549 words of node,token memory allocated
+ 662149 words of node memory still in use:
+   5845 hlist, 80 vlist, 1922 rule, 8 ins, 6230 disc, 751 local_par, 11 math, 12
+151 glue, 6214 kern, 1240 penalty, 239 margin_kern, 45966 glyph, 29194 attribute
 , 1487 glue_spec, 4172 attribute_list, 51 write, 340 pdf_colorstack, 6 pdf_setma
 trix, 6 pdf_save, 6 pdf_restore nodes
-   avail lists: 1:8,2:220,3:30,4:20,5:113,6:10,7:904,8:54,9:210,10:15,11:108
- 74082 multiletter control sequences out of 65536+600000
+   avail lists: 1:10,2:220,3:30,4:20,5:113,6:10,7:942,8:55,9:210,10:20,11:144
+ 74176 multiletter control sequences out of 65536+600000
  75 fonts using 14185367 bytes
  132i,10n,127p,2361b,2642s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBoldItal
@@ -2912,7 +2988,7 @@ ertinusSerif-Italic.otf></usr/share/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSa
 nsCondensed-Regular.otf></usr/share/texmf-dist/fonts/opentype/public/libertinus-
 fonts/LibertinusSerif-Regular.otf></usr/share/texmf-dist/fonts/type1/public/amsf
 onts/latxfont/lcircle1.pfb>
-Output written on pdf-CHARLAUNPaz.pdf (38 pages, 565742 bytes).
+Output written on pdf-CHARLAUNPaz.pdf (38 pages, 565745 bytes).
 
 PDF statistics: 178 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
